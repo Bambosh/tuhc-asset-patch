@@ -1,0 +1,1992 @@
+{
+  "tso": {
+    "comments": [
+      "You can extend this section to include more of Hussie's old stuff, if you're so inclined.",
+      "Download https://github.com/MrCheeze/andrewhussie/tree/gh-pages/comics, and move its contents to [Asset Directory]/archive/tso",
+      "Then delete the entire 'list' array below, and rename 'extended_list' to 'list' so it can take its place.",
+      "The extra comics will be accessible from the tso page within the archive"
+    ],
+    "list": [
+      "whistles",
+      "aids",
+      "nich",
+      {
+        "groupName": "Blurbs",
+        "groupDesc": "A variety of casually rendered comics, spanning multiple series.",
+        "list": [
+          "spfp",
+          "itfh",
+          "rg",
+          "humanimals",
+          "zoosmells"
+        ]
+      }
+    ],
+    "extended_list": [
+      "whistles",
+      "aids",
+      "nich",
+      {
+        "groupName": "Blurbs",
+        "groupDesc": "A variety of casually rendered comics, spanning multiple series.",
+        "list": [
+          "spfp",
+          "itfh",
+          "was",
+          "rg",
+          "humanimals",
+          "up",
+          "zoosmells",
+          "roboboners",
+          "tcfs",
+          "misc"
+        ]
+      },
+      "scribblettes",
+      "wallpapers",
+      "cdasl",
+      "comabear",
+      {
+        "groupName": "Book Defacement",
+        "groupDesc": "A time-honoured tradition of scribbling in books to create gifts for others.",
+        "list": [
+          "wizardology",
+          "fappu",
+          "tfwf"
+        ]
+      },
+      {
+        "groupName": "Older Stuff",
+        "groupDesc": "Assorted comics that don't really fit anywhere else",
+        "list": [
+          "ch",
+          "htead",
+          "goe",
+          "gc",
+          "fa",
+          "hfc"
+        ]
+      }
+    ],
+    "comics": {
+      "whistles": {
+        "name": "Whistles: The Starlight Calliope",
+        "desc": "Whistles, a clown in the Starlight Calliope circus, was beloved by all. One day an accident nearly cost him his life, and he became exposed to the corrupt underworld of the circus, rife with murder and cannibalism. Forced to flee, he experiences the hardships of the world such as homesickness and prostitution.",
+        "pages": [
+          "/archive/comics/tso/whistles/whistles_0cover.jpg",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p00.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p01.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p02.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p03.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p04.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p05.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p06.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p07-08.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p09.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p10.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p11.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p12.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p13.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p14.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p15.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p16.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p17.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p18.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p19.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p20.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p21.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p22.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p23-24.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p25.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p26.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p27.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p28.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p29.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p30.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p31.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p32.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p33.gif",
+          "/archive/comics/tso/whistles/whistles_ch1_print_p35-36.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p00.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p01.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p02.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p03.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p04.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p05-06.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p07.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p08.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p09.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p10.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p11-12.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p13.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p14.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p15.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p16.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p17-18.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p19.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p20.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p21.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p22.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p23.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p24.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p25.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p26.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p27.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p28.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p29.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p30.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p31.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p32.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p33-34.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p35.gif",
+          "/archive/comics/tso/whistles/whistles_ch2_print_p37-38.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p00.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p01.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p02.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p03.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p04.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p05.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p06.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p07.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p08.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p09.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p10.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p11.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p12.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p13.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p14.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p15.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p16.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p17.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p18.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p19.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p20.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p21.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p22.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p23.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p24.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p26.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p27.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p28.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p29.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p30.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p31.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p32.gif",
+          "/archive/comics/tso/whistles/whistles_ch3_print_p33.gif",
+          "/archive/comics/tso/whistles/whistles2_001.jpg",
+          "/archive/comics/tso/whistles/whistles2_002-3.jpg",
+          "/archive/comics/tso/whistles/whistles2_004.jpg",
+          "/archive/comics/tso/whistles/whistles2_005.jpg",
+          "/archive/comics/tso/whistles/whistles2_006.jpg",
+          "/archive/comics/tso/whistles/whistles2_007.jpg",
+          "/archive/comics/tso/whistles/whistles2_008.jpg",
+          "/archive/comics/tso/whistles/whistles2_009.jpg",
+          "/archive/comics/tso/whistles/whistles2_010.jpg",
+          "/archive/comics/tso/whistles/whistles2_011.jpg",
+          "/archive/comics/tso/whistles/whistles2_012.jpg",
+          "/archive/comics/tso/whistles/whistles2_013.jpg",
+          "/archive/comics/tso/whistles/whistles2_014.jpg",
+          "/archive/comics/tso/whistles/whistles2_015.jpg",
+          "/archive/comics/tso/whistles/whistles2_016.jpg",
+          "/archive/comics/tso/whistles/whistles2_017.jpg",
+          "/archive/comics/tso/whistles/whistles2_018.jpg",
+          "/archive/comics/tso/whistles/whistles2_019.jpg",
+          "/archive/comics/tso/whistles/whistles2_020.jpg",
+          "/archive/comics/tso/whistles/whistles2_021.jpg",
+          "/archive/comics/tso/whistles/whistles2_022.jpg",
+          "/archive/comics/tso/whistles/whistles2_023.jpg",
+          "/archive/comics/tso/whistles/whistles2_024.jpg",
+          "/archive/comics/tso/whistles/whistles2_025.jpg",
+          "/archive/comics/tso/whistles/whistles2_026.jpg",
+          "/archive/comics/tso/whistles/whistles2_029.jpg",
+          "/archive/comics/tso/whistles/whistles2_030.jpg",
+          "/archive/comics/tso/whistles/whistles2_031.jpg",
+          "/archive/comics/tso/whistles/whistles2_032.jpg",
+          "/archive/comics/tso/whistles/whistles2_033.jpg",
+          "/archive/comics/tso/whistles/whistles2_034.jpg",
+          "/archive/comics/tso/whistles/whistles2_035.jpg",
+          "/archive/comics/tso/whistles/whistles2_036.jpg",
+          "/archive/comics/tso/whistles/whistles2_037.jpg",
+          "/archive/comics/tso/whistles/whistles2_038.jpg",
+          "/archive/comics/tso/whistles/whistles2_039.jpg",
+          "/archive/comics/tso/whistles/whistles2_040.jpg",
+          "/archive/comics/tso/whistles/whistles2_041.jpg",
+          "/archive/comics/tso/whistles/whistles2_042.jpg",
+          "/archive/comics/tso/whistles/whistles2_043.jpg",
+          "/archive/comics/tso/whistles/whistles2_044.jpg",
+          "/archive/comics/tso/whistles/whistles2_045.jpg",
+          "/archive/comics/tso/whistles/whistles2_046.jpg",
+          "/archive/comics/tso/whistles/whistles2_047.jpg",
+          "/archive/comics/tso/whistles/whistles2_048.jpg",
+          "/archive/comics/tso/whistles/whistles2_049.jpg",
+          "/archive/comics/tso/whistles/whistles2_050.jpg",
+          "/archive/comics/tso/whistles/whistles2_051.jpg",
+          "/archive/comics/tso/whistles/whistles2_052.jpg",
+          "/archive/comics/tso/whistles/whistles2_053.jpg",
+          "/archive/comics/tso/whistles/whistles2_054.jpg",
+          "/archive/comics/tso/whistles/whistles2_055.jpg",
+          "/archive/comics/tso/whistles/wondercon08.jpg"
+        ]
+      },
+      "aids": {
+        "name": "And It Don't Stop",
+        "desc": "\"Buncha years ago Andrew Hussie and I collaborated on a comic that was (even though we didn’t know it at the time) 8-Mile vs Real Steel. By collaborated, I guess I should say, I bailed way early and Andrew finished the thing like a champ.\" -Tauhid Bondia",
+        "pages": [
+          "/archive/comics/tso/aids/00000.jpg",
+          "/archive/comics/tso/aids/00001.jpg",
+          "/archive/comics/tso/aids/00002.jpg",
+          "/archive/comics/tso/aids/00003.jpg",
+          "/archive/comics/tso/aids/00004.jpg",
+          "/archive/comics/tso/aids/00005.jpg",
+          "/archive/comics/tso/aids/00006.jpg",
+          "/archive/comics/tso/aids/00007.jpg",
+          "/archive/comics/tso/aids/00008.jpg",
+          "/archive/comics/tso/aids/00009.jpg",
+          "/archive/comics/tso/aids/00010.jpg",
+          "/archive/comics/tso/aids/00011.jpg",
+          "/archive/comics/tso/aids/00012.jpg",
+          "/archive/comics/tso/aids/00013.jpg",
+          "/archive/comics/tso/aids/00014.jpg",
+          "/archive/comics/tso/aids/00015.jpg",
+          "/archive/comics/tso/aids/00016.jpg",
+          "/archive/comics/tso/aids/00017.jpg",
+          "/archive/comics/tso/aids/00018.jpg",
+          "/archive/comics/tso/aids/00019.jpg",
+          "/archive/comics/tso/aids/00020.jpg",
+          "/archive/comics/tso/aids/00021.jpg",
+          "/archive/comics/tso/aids/00022.jpg",
+          "/archive/comics/tso/aids/00023.jpg",
+          "/archive/comics/tso/aids/00024.jpg",
+          "/archive/comics/tso/aids/00025.jpg",
+          "/archive/comics/tso/aids/00026.jpg",
+          "/archive/comics/tso/aids/00027.jpg",
+          "/archive/comics/tso/aids/00028.jpg",
+          "/archive/comics/tso/aids/00029.jpg",
+          "/archive/comics/tso/aids/00030.jpg",
+          "/archive/comics/tso/aids/00031.jpg",
+          "/archive/comics/tso/aids/00032.jpg",
+          "/archive/comics/tso/aids/00033.jpg",
+          "/archive/comics/tso/aids/00034.jpg",
+          "/archive/comics/tso/aids/00035.jpg",
+          "/archive/comics/tso/aids/00036.jpg",
+          "/archive/comics/tso/aids/00037.jpg",
+          "/archive/comics/tso/aids/00038.jpg",
+          "/archive/comics/tso/aids/00039.jpg"
+        ]
+      },
+      "nich": {
+        "name": "Neon Ice Cream Headache",
+        "desc": "Jose’s totally mad-flagrant friends hook him up with a totally sweet b-day present. Was planned to be part of a larger collection of related stories that was never completed.",
+        "pages": [
+          "/archive/comics/tso/nich/00001.jpg",
+          "/archive/comics/tso/nich/00002.jpg",
+          "/archive/comics/tso/nich/00003.jpg",
+          "/archive/comics/tso/nich/00004.jpg",
+          "/archive/comics/tso/nich/00005.jpg",
+          "/archive/comics/tso/nich/00006.jpg",
+          "/archive/comics/tso/nich/00007.jpg",
+          "/archive/comics/tso/nich/00008.jpg",
+          "/archive/comics/tso/nich/00009.jpg",
+          "/archive/comics/tso/nich/00010.jpg",
+          "/archive/comics/tso/nich/000tbc.jpg"
+        ]
+      },
+      "spfp": {
+        "name": "Steep Price For Pie",
+        "pages": [
+          "/archive/comics/tso/blurbs/00001-spfp.gif",
+          "/archive/comics/tso/blurbs/00002-spfp.gif",
+          "/archive/comics/tso/blurbs/00098-spfp.gif",
+          "/archive/comics/tso/blurbs/00099-spfp.gif",
+          "/archive/comics/tso/blurbs/00100-spfp.gif",
+          "/archive/comics/tso/blurbs/00101-spfp.gif",
+          "/archive/comics/tso/blurbs/00104-spfp.gif",
+          "/archive/comics/tso/blurbs/00112-spfp.gif",
+          "/archive/comics/tso/blurbs/00117-spfp.jpg",
+          "/archive/comics/tso/blurbs/00118-spfp.gif",
+          "/archive/comics/tso/blurbs/00119-spfp.gif",
+          "/archive/comics/tso/blurbs/00120-spfp.gif",
+          "/archive/comics/tso/blurbs/00121-spfp.gif",
+          "/archive/comics/tso/blurbs/00134-spfp.gif",
+          "/archive/comics/tso/blurbs/00144-spfp.gif",
+          "/archive/comics/tso/blurbs/00158-spfp.gif"
+        ]
+      },
+      "itfh": {
+        "name": "Inappropriate Time For Ham",
+        "pages": [
+          "/archive/comics/tso/blurbs/00003-itfh.jpg",
+          "/archive/comics/tso/blurbs/00005-itfh.gif",
+          "/archive/comics/tso/blurbs/00006-itfh.jpg",
+          "/archive/comics/tso/blurbs/00008-itfh.gif",
+          "/archive/comics/tso/blurbs/00009-itfh.gif",
+          "/archive/comics/tso/blurbs/00010-itfh.jpg",
+          "/archive/comics/tso/blurbs/00011-itfh.gif",
+          "/archive/comics/tso/blurbs/00013-itfh.jpg",
+          "/archive/comics/tso/blurbs/00014-itfh.jpg",
+          "/archive/comics/tso/blurbs/00016-itfh.gif",
+          "/archive/comics/tso/blurbs/00021-itfh.jpg",
+          "/archive/comics/tso/blurbs/00024-itfh.jpg",
+          "/archive/comics/tso/blurbs/00027-itfh.jpg",
+          "/archive/comics/tso/blurbs/00030-itfh.gif",
+          "/archive/comics/tso/blurbs/00041-itfh.gif",
+          "/archive/comics/tso/blurbs/00068-itfh.gif",
+          "/archive/comics/tso/blurbs/00070-itfh.gif",
+          "/archive/comics/tso/blurbs/00073-itfh.gif",
+          "/archive/comics/tso/blurbs/00075-itfh.gif",
+          "/archive/comics/tso/blurbs/00076-itfh.gif",
+          "/archive/comics/tso/blurbs/00078-itfh.gif",
+          "/archive/comics/tso/blurbs/00090-itfh.gif",
+          "/archive/comics/tso/blurbs/00091-itfh.gif",
+          "/archive/comics/tso/blurbs/00092-itfh.gif",
+          "/archive/comics/tso/blurbs/00113-itfh.gif",
+          "/archive/comics/tso/blurbs/00114-itfh.gif",
+          "/archive/comics/tso/blurbs/00135-itfh.gif",
+          "/archive/comics/tso/blurbs/00148-itfh.gif",
+          "/archive/comics/tso/blurbs/00150-spfp.jpg",
+          "/archive/comics/tso/blurbs/00156-itfh.gif",
+          "/archive/comics/tso/blurbs/00159-itfh.gif",
+          "/archive/comics/tso/blurbs/00160-itfh.gif"
+        ]
+      },
+      "was": {
+        "name": "What A Scoop!",
+        "pages": [
+          "/archive/comics/tso/blurbs/00015-was.jpg",
+          "/archive/comics/tso/blurbs/00019-was.jpg",
+          "/archive/comics/tso/blurbs/00023-was.jpg",
+          "/archive/comics/tso/blurbs/00028-was.jpg",
+          "/archive/comics/tso/blurbs/00031-was.jpg",
+          "/archive/comics/tso/blurbs/00036-was.jpg",
+          "/archive/comics/tso/blurbs/00040-was.jpg",
+          "/archive/comics/tso/blurbs/00056-was.jpg",
+          "/archive/comics/tso/blurbs/00058-was.jpg",
+          "/archive/comics/tso/blurbs/00060-was.jpg",
+          "/archive/comics/tso/blurbs/00063-was.jpg",
+          "/archive/comics/tso/blurbs/00069-was.jpg",
+          "/archive/comics/tso/blurbs/00072-was.jpg",
+          "/archive/comics/tso/blurbs/00097-was.gif",
+          "/archive/comics/tso/blurbs/00102-was.jpg",
+          "/archive/comics/tso/blurbs/00103-was.jpg",
+          "/archive/comics/tso/blurbs/00106-was.jpg",
+          "/archive/comics/tso/blurbs/00139-was.jpg"
+        ]
+      },
+      "rg": {
+        "name": "Riddler's Gammon",
+        "pages": [
+          "/archive/comics/tso/blurbs/00018-rg.gif",
+          "/archive/comics/tso/blurbs/00022-rg.gif",
+          "/archive/comics/tso/blurbs/00026-rg.gif",
+          "/archive/comics/tso/blurbs/00032-rg.gif",
+          "/archive/comics/tso/blurbs/00037-rg.jpg",
+          "/archive/comics/tso/blurbs/00042-rg.jpg",
+          "/archive/comics/tso/blurbs/00129-rg.gif",
+          "/archive/comics/tso/blurbs/00130b-rg.jpg",
+          "/archive/comics/tso/blurbs/00143-rg.gif",
+          "/archive/comics/tso/blurbs/00145-rg.gif",
+          "/archive/comics/tso/blurbs/00152-rg.gif",
+          "/archive/comics/tso/blurbs/00157-rg.gif"
+        ]
+      },
+      "humanimals": {
+        "name": "Humanimals",
+        "pages": [
+          "/archive/comics/tso/blurbs/00047-h.gif",
+          "/archive/comics/tso/blurbs/00048-h.gif",
+          "/archive/comics/tso/blurbs/00049-h.gif",
+          "/archive/comics/tso/blurbs/00050-h.gif",
+          "/archive/comics/tso/blurbs/00051-h.gif",
+          "/archive/comics/tso/blurbs/00059-h.gif",
+          "/archive/comics/tso/blurbs/00064-h.gif",
+          "/archive/comics/tso/blurbs/00067-h.gif",
+          "/archive/comics/tso/blurbs/00085-h.gif",
+          "/archive/comics/tso/blurbs/00087-h.gif",
+          "/archive/comics/tso/blurbs/00095-h.gif",
+          "/archive/comics/tso/blurbs/00122-h.gif",
+          "/archive/comics/tso/blurbs/00123-h.gif",
+          "/archive/comics/tso/blurbs/00136-h.gif",
+          "/archive/comics/tso/blurbs/00137-h.gif",
+          "/archive/comics/tso/blurbs/00138-h.gif",
+          "/archive/comics/tso/blurbs/00140-h.jpg",
+          "/archive/comics/tso/blurbs/00141-h.gif",
+          "/archive/comics/tso/blurbs/00146-h.gif",
+          "/archive/comics/tso/blurbs/00151-h.gif"
+        ]
+      },
+      "up": {
+        "name": "Unwarranted Parade",
+        "pages": [
+          "/archive/comics/tso/blurbs/00057-up.gif",
+          "/archive/comics/tso/blurbs/00061-up.gif",
+          "/archive/comics/tso/blurbs/00065-up.gif",
+          "/archive/comics/tso/blurbs/00080-up.gif",
+          "/archive/comics/tso/blurbs/00081-up.gif",
+          "/archive/comics/tso/blurbs/00082-up.gif",
+          "/archive/comics/tso/blurbs/00083-up.gif",
+          "/archive/comics/tso/blurbs/00093-up.gif",
+          "/archive/comics/tso/blurbs/00127-up.gif"
+        ]
+      },
+      "zoosmells": {
+        "name": "Zoosmells",
+        "pages": [
+          "/archive/comics/tso/blurbs/00096-zs.gif",
+          "/archive/comics/tso/blurbs/00105-zs.gif",
+          "/archive/comics/tso/blurbs/00111-zs.gif",
+          "/archive/comics/tso/blurbs/00124-zs.gif",
+          "/archive/comics/tso/blurbs/00131-zs.gif",
+          "/archive/comics/tso/blurbs/00133-zs.gif",
+          "/archive/comics/tso/blurbs/00142-zs.gif",
+          "/archive/comics/tso/blurbs/00147-zs.gif",
+          "/archive/comics/tso/blurbs/00149-zs.gif",
+          "/archive/comics/tso/blurbs/00153-zs.gif",
+          "/archive/comics/tso/blurbs/00154-zs.gif",
+          "/archive/comics/tso/blurbs/00155-zs.gif"
+        ]
+      },
+      "roboboners": {
+        "name": "Roboboners",
+        "pages": [
+          "/archive/comics/tso/blurbs/00107-rb.gif",
+          "/archive/comics/tso/blurbs/00108-rb.gif",
+          "/archive/comics/tso/blurbs/00109-rb.gif",
+          "/archive/comics/tso/blurbs/00110-rb.gif",
+          "/archive/comics/tso/blurbs/00115-rb.gif",
+          "/archive/comics/tso/blurbs/00116-rb.gif",
+          "/archive/comics/tso/blurbs/00126-rb.gif"
+        ]
+      },
+      "tcfs": {
+        "name": "Three Cheers For Steak",
+        "pages": [
+          "/archive/comics/tso/blurbs/00125-tcfs.jpg",
+          "/archive/comics/tso/blurbs/00128-tcfs.jpg",
+          "/archive/comics/tso/blurbs/00130-tcfs.jpg",
+          "/archive/comics/tso/blurbs/00132-tcfs.jpg"
+        ]
+      },
+      "misc": {
+        "name": "Misc.",
+        "pages": [
+          "/archive/comics/tso/blurbs/00066-gi.jpg",
+          "/archive/comics/tso/blurbs/00084-somisc.gif",
+          "/archive/comics/tso/blurbs/00088-somisc.gif",
+          "/archive/comics/tso/blurbs/00089-somisc.gif"
+        ]
+      },
+      "scribblettes": {
+        "name": "Scribblettes",
+        "desc": "Even more casually rendered comics of a random nature.",
+        "pages": [
+          "/archive/comics/tso/scrib/00001.gif",
+          "/archive/comics/tso/scrib/00002.gif",
+          "/archive/comics/tso/scrib/00003.gif",
+          "/archive/comics/tso/scrib/00004.gif",
+          "/archive/comics/tso/scrib/00005.gif",
+          "/archive/comics/tso/scrib/00006.gif",
+          "/archive/comics/tso/scrib/00007.gif",
+          "/archive/comics/tso/scrib/00008.gif",
+          "/archive/comics/tso/scrib/00009.gif",
+          "/archive/comics/tso/scrib/00010.gif",
+          "/archive/comics/tso/scrib/00011.gif",
+          "/archive/comics/tso/scrib/00012.gif",
+          "/archive/comics/tso/scrib/00013.gif",
+          "/archive/comics/tso/scrib/00014.gif",
+          "/archive/comics/tso/scrib/00015.gif",
+          "/archive/comics/tso/scrib/00016.gif",
+          "/archive/comics/tso/scrib/00017.gif",
+          "/archive/comics/tso/scrib/00018.gif",
+          "/archive/comics/tso/scrib/00019.gif",
+          "/archive/comics/tso/scrib/00020.gif",
+          "/archive/comics/tso/scrib/00021.gif",
+          "/archive/comics/tso/scrib/00022.gif",
+          "/archive/comics/tso/scrib/00023.gif",
+          "/archive/comics/tso/scrib/00024.gif",
+          "/archive/comics/tso/scrib/00025.gif",
+          "/archive/comics/tso/scrib/00026.gif",
+          "/archive/comics/tso/scrib/00027.gif",
+          "/archive/comics/tso/scrib/00028.gif",
+          "/archive/comics/tso/scrib/00029.gif",
+          "/archive/comics/tso/scrib/00030.gif",
+          "/archive/comics/tso/scrib/00031.gif",
+          "/archive/comics/tso/scrib/00032.gif",
+          "/archive/comics/tso/scrib/00033.gif",
+          "/archive/comics/tso/scrib/00034.gif",
+          "/archive/comics/tso/scrib/00035.gif",
+          "/archive/comics/tso/scrib/00036.gif",
+          "/archive/comics/tso/scrib/00037.gif",
+          "/archive/comics/tso/scrib/00038.gif",
+          "/archive/comics/tso/scrib/00039.gif",
+          "/archive/comics/tso/scrib/00040.gif",
+          "/archive/comics/tso/scrib/00041.gif",
+          "/archive/comics/tso/scrib/00042.gif",
+          "/archive/comics/tso/scrib/00043.gif",
+          "/archive/comics/tso/scrib/00044.gif",
+          "/archive/comics/tso/scrib/00045.gif",
+          "/archive/comics/tso/scrib/00046.gif",
+          "/archive/comics/tso/scrib/00047.gif",
+          "/archive/comics/tso/scrib/00048.gif",
+          "/archive/comics/tso/scrib/00049.gif",
+          "/archive/comics/tso/scrib/00050.gif",
+          "/archive/comics/tso/scrib/00051.gif",
+          "/archive/comics/tso/scrib/00052.gif",
+          "/archive/comics/tso/scrib/00053.gif",
+          "/archive/comics/tso/scrib/00054.gif",
+          "/archive/comics/tso/scrib/00055.gif",
+          "/archive/comics/tso/scrib/00056.gif",
+          "/archive/comics/tso/scrib/00057.gif",
+          "/archive/comics/tso/scrib/00058.gif",
+          "/archive/comics/tso/scrib/00059.gif",
+          "/archive/comics/tso/scrib/00060.gif",
+          "/archive/comics/tso/scrib/00061.gif",
+          "/archive/comics/tso/scrib/00062.gif",
+          "/archive/comics/tso/scrib/00063.gif",
+          "/archive/comics/tso/scrib/00064.gif",
+          "/archive/comics/tso/scrib/00065.gif",
+          "/archive/comics/tso/scrib/00066.gif",
+          "/archive/comics/tso/scrib/00067.gif",
+          "/archive/comics/tso/scrib/00068.gif",
+          "/archive/comics/tso/scrib/00069.gif",
+          "/archive/comics/tso/scrib/00070.gif",
+          "/archive/comics/tso/scrib/00071.gif",
+          "/archive/comics/tso/scrib/00072.gif",
+          "/archive/comics/tso/scrib/00073.gif",
+          "/archive/comics/tso/scrib/00074.gif",
+          "/archive/comics/tso/scrib/00075.gif",
+          "/archive/comics/tso/scrib/00076.gif",
+          "/archive/comics/tso/scrib/00077.gif",
+          "/archive/comics/tso/scrib/00078.gif",
+          "/archive/comics/tso/scrib/00079.gif",
+          "/archive/comics/tso/scrib/00080.gif",
+          "/archive/comics/tso/scrib/00081.gif",
+          "/archive/comics/tso/scrib/00082.gif",
+          "/archive/comics/tso/scrib/00083.gif",
+          "/archive/comics/tso/scrib/00084.gif",
+          "/archive/comics/tso/scrib/00085.gif",
+          "/archive/comics/tso/scrib/00086.gif",
+          "/archive/comics/tso/scrib/00087.gif",
+          "/archive/comics/tso/scrib/00088.gif",
+          "/archive/comics/tso/scrib/00089.gif",
+          "/archive/comics/tso/scrib/00090.gif",
+          "/archive/comics/tso/scrib/00091.gif",
+          "/archive/comics/tso/scrib/00092.gif",
+          "/archive/comics/tso/scrib/00093.gif",
+          "/archive/comics/tso/scrib/00094.gif",
+          "/archive/comics/tso/scrib/00095.gif",
+          "/archive/comics/tso/scrib/00096.gif",
+          "/archive/comics/tso/scrib/00097.gif",
+          "/archive/comics/tso/scrib/00098.gif",
+          "/archive/comics/tso/scrib/00099.gif",
+          "/archive/comics/tso/scrib/00100.gif",
+          "/archive/comics/tso/scrib/00101.gif",
+          "/archive/comics/tso/scrib/00102.gif",
+          "/archive/comics/tso/scrib/00103.gif",
+          "/archive/comics/tso/scrib/00104.gif",
+          "/archive/comics/tso/scrib/00105.gif",
+          "/archive/comics/tso/scrib/00106.gif",
+          "/archive/comics/tso/scrib/00107.gif",
+          "/archive/comics/tso/scrib/00108.gif",
+          "/archive/comics/tso/scrib/00109.gif",
+          "/archive/comics/tso/scrib/00110.gif",
+          "/archive/comics/tso/scrib/00111.gif",
+          "/archive/comics/tso/scrib/00112.gif",
+          "/archive/comics/tso/scrib/00113.gif",
+          "/archive/comics/tso/scrib/00114.gif",
+          "/archive/comics/tso/scrib/00115.gif",
+          "/archive/comics/tso/scrib/00116.gif",
+          "/archive/comics/tso/scrib/00117.gif",
+          "/archive/comics/tso/scrib/00118.gif",
+          "/archive/comics/tso/scrib/00119.gif",
+          "/archive/comics/tso/scrib/00120.gif",
+          "/archive/comics/tso/scrib/00121.gif",
+          "/archive/comics/tso/scrib/00122.gif",
+          "/archive/comics/tso/scrib/00123.gif",
+          "/archive/comics/tso/scrib/00124.gif",
+          "/archive/comics/tso/scrib/00125.gif",
+          "/archive/comics/tso/scrib/00126.gif",
+          "/archive/comics/tso/scrib/00127.gif",
+          "/archive/comics/tso/scrib/00128.gif",
+          "/archive/comics/tso/scrib/00129.gif",
+          "/archive/comics/tso/scrib/00130.gif",
+          "/archive/comics/tso/scrib/00131.gif",
+          "/archive/comics/tso/scrib/00132.gif",
+          "/archive/comics/tso/scrib/00133.gif",
+          "/archive/comics/tso/scrib/00134.gif",
+          "/archive/comics/tso/scrib/00135.gif",
+          "/archive/comics/tso/scrib/00136.gif",
+          "/archive/comics/tso/scrib/00137.gif",
+          "/archive/comics/tso/scrib/00138.gif",
+          "/archive/comics/tso/scrib/00139.gif",
+          "/archive/comics/tso/scrib/00140.gif",
+          "/archive/comics/tso/scrib/00141.gif",
+          "/archive/comics/tso/scrib/00142.gif",
+          "/archive/comics/tso/scrib/00143.gif",
+          "/archive/comics/tso/scrib/00144.gif",
+          "/archive/comics/tso/scrib/00145.gif",
+          "/archive/comics/tso/scrib/00146.gif",
+          "/archive/comics/tso/scrib/00147.gif",
+          "/archive/comics/tso/scrib/00148.gif",
+          "/archive/comics/tso/scrib/00149.gif",
+          "/archive/comics/tso/scrib/00150.gif",
+          "/archive/comics/tso/scrib/00151.gif",
+          "/archive/comics/tso/scrib/00152.gif",
+          "/archive/comics/tso/scrib/00153.gif",
+          "/archive/comics/tso/scrib/00154.gif",
+          "/archive/comics/tso/scrib/00155.gif",
+          "/archive/comics/tso/scrib/00156.gif",
+          "/archive/comics/tso/scrib/00157.gif",
+          "/archive/comics/tso/scrib/00158.gif",
+          "/archive/comics/tso/scrib/00159.gif",
+          "/archive/comics/tso/scrib/00160.gif",
+          "/archive/comics/tso/scrib/00161.gif",
+          "/archive/comics/tso/scrib/00162.gif",
+          "/archive/comics/tso/scrib/00163.gif",
+          "/archive/comics/tso/scrib/00164.gif",
+          "/archive/comics/tso/scrib/00165.gif",
+          "/archive/comics/tso/scrib/00166.gif",
+          "/archive/comics/tso/scrib/00167.gif",
+          "/archive/comics/tso/scrib/00168.gif",
+          "/archive/comics/tso/scrib/00169.gif",
+          "/archive/comics/tso/scrib/00170.gif",
+          "/archive/comics/tso/scrib/00171.gif",
+          "/archive/comics/tso/scrib/00172.gif",
+          "/archive/comics/tso/scrib/00173.gif",
+          "/archive/comics/tso/scrib/00174.gif",
+          "/archive/comics/tso/scrib/00175.gif",
+          "/archive/comics/tso/scrib/00176.gif",
+          "/archive/comics/tso/scrib/00177.gif",
+          "/archive/comics/tso/scrib/00178.gif",
+          "/archive/comics/tso/scrib/00179.gif",
+          "/archive/comics/tso/scrib/00180.gif",
+          "/archive/comics/tso/scrib/00181.gif",
+          "/archive/comics/tso/scrib/00182.gif",
+          "/archive/comics/tso/scrib/00183.gif",
+          "/archive/comics/tso/scrib/00184.gif",
+          "/archive/comics/tso/scrib/00185.gif",
+          "/archive/comics/tso/scrib/00186.gif",
+          "/archive/comics/tso/scrib/00187.gif",
+          "/archive/comics/tso/scrib/00188.gif",
+          "/archive/comics/tso/scrib/00189.gif",
+          "/archive/comics/tso/scrib/00190.gif",
+          "/archive/comics/tso/scrib/00191.gif",
+          "/archive/comics/tso/scrib/00192.gif",
+          "/archive/comics/tso/scrib/00193.gif",
+          "/archive/comics/tso/scrib/00194.gif",
+          "/archive/comics/tso/scrib/00195.gif",
+          "/archive/comics/tso/scrib/00196.gif",
+          "/archive/comics/tso/scrib/00197.gif",
+          "/archive/comics/tso/scrib/00198.gif",
+          "/archive/comics/tso/scrib/00199.gif",
+          "/archive/comics/tso/scrib/00200.gif",
+          "/archive/comics/tso/scrib/00201.gif",
+          "/archive/comics/tso/scrib/00202.gif",
+          "/archive/comics/tso/scrib/00203.gif",
+          "/archive/comics/tso/scrib/00204.gif",
+          "/archive/comics/tso/scrib/00205.gif",
+          "/archive/comics/tso/scrib/00206.gif",
+          "/archive/comics/tso/scrib/00207.gif",
+          "/archive/comics/tso/scrib/00208.gif",
+          "/archive/comics/tso/scrib/00209.gif",
+          "/archive/comics/tso/scrib/00210.gif",
+          "/archive/comics/tso/scrib/00211.gif",
+          "/archive/comics/tso/scrib/00212.gif",
+          "/archive/comics/tso/scrib/00213.gif",
+          "/archive/comics/tso/scrib/00214.gif",
+          "/archive/comics/tso/scrib/00215.gif",
+          "/archive/comics/tso/scrib/00216.gif",
+          "/archive/comics/tso/scrib/00217.gif",
+          "/archive/comics/tso/scrib/00218.gif",
+          "/archive/comics/tso/scrib/00219.gif",
+          "/archive/comics/tso/scrib/00220.gif",
+          "/archive/comics/tso/scrib/00221.gif",
+          "/archive/comics/tso/scrib/00222.gif",
+          "/archive/comics/tso/scrib/00223.gif",
+          "/archive/comics/tso/scrib/00224.gif",
+          "/archive/comics/tso/scrib/00225.gif",
+          "/archive/comics/tso/scrib/00226.gif",
+          "/archive/comics/tso/scrib/00227.gif",
+          "/archive/comics/tso/scrib/00228.gif",
+          "/archive/comics/tso/scrib/00229.gif",
+          "/archive/comics/tso/scrib/00230.gif",
+          "/archive/comics/tso/scrib/00231.gif",
+          "/archive/comics/tso/scrib/00232.gif",
+          "/archive/comics/tso/scrib/00233.gif",
+          "/archive/comics/tso/scrib/00234.gif",
+          "/archive/comics/tso/scrib/00235.gif",
+          "/archive/comics/tso/scrib/00236.gif",
+          "/archive/comics/tso/scrib/00237.gif",
+          "/archive/comics/tso/scrib/00238.gif",
+          "/archive/comics/tso/scrib/00239.gif",
+          "/archive/comics/tso/scrib/00240.gif",
+          "/archive/comics/tso/scrib/00241.gif",
+          "/archive/comics/tso/scrib/00242.gif",
+          "/archive/comics/tso/scrib/00243.gif",
+          "/archive/comics/tso/scrib/00244.gif",
+          "/archive/comics/tso/scrib/00245.gif",
+          "/archive/comics/tso/scrib/00246.gif",
+          "/archive/comics/tso/scrib/00247.gif",
+          "/archive/comics/tso/scrib/00248.gif",
+          "/archive/comics/tso/scrib/00249.gif",
+          "/archive/comics/tso/scrib/00250.gif",
+          "/archive/comics/tso/scrib/00251.gif",
+          "/archive/comics/tso/scrib/00252.gif",
+          "/archive/comics/tso/scrib/00253.gif",
+          "/archive/comics/tso/scrib/00254.gif",
+          "/archive/comics/tso/scrib/00255.gif",
+          "/archive/comics/tso/scrib/00256.gif",
+          "/archive/comics/tso/scrib/00257.gif",
+          "/archive/comics/tso/scrib/00258.gif",
+          "/archive/comics/tso/scrib/00259.gif",
+          "/archive/comics/tso/scrib/00260.gif",
+          "/archive/comics/tso/scrib/00261.gif",
+          "/archive/comics/tso/scrib/00262.gif",
+          "/archive/comics/tso/scrib/00263.gif",
+          "/archive/comics/tso/scrib/00264.gif",
+          "/archive/comics/tso/scrib/00265.gif",
+          "/archive/comics/tso/scrib/00266.gif",
+          "/archive/comics/tso/scrib/00267.gif",
+          "/archive/comics/tso/scrib/00268.gif",
+          "/archive/comics/tso/scrib/00269.gif",
+          "/archive/comics/tso/scrib/00270.gif",
+          "/archive/comics/tso/scrib/00271.gif",
+          "/archive/comics/tso/scrib/00272.gif",
+          "/archive/comics/tso/scrib/00273.gif",
+          "/archive/comics/tso/scrib/00274.gif",
+          "/archive/comics/tso/scrib/00275.gif",
+          "/archive/comics/tso/scrib/00276.gif",
+          "/archive/comics/tso/scrib/00277.gif",
+          "/archive/comics/tso/scrib/00278.gif",
+          "/archive/comics/tso/scrib/00279.gif",
+          "/archive/comics/tso/scrib/00280.gif",
+          "/archive/comics/tso/scrib/00281.gif",
+          "/archive/comics/tso/scrib/00282.gif",
+          "/archive/comics/tso/scrib/00283.gif",
+          "/archive/comics/tso/scrib/00284.gif",
+          "/archive/comics/tso/scrib/00285.gif",
+          "/archive/comics/tso/scrib/00286.gif",
+          "/archive/comics/tso/scrib/00287.gif",
+          "/archive/comics/tso/scrib/00288.gif"
+        ]
+      },
+      "ch": {
+        "name": "Caper Havers",
+        "pages": [
+          "/archive/comics/tso/ch/00001.jpg",
+          "/archive/comics/tso/ch/00002.jpg",
+          "/archive/comics/tso/ch/00003.jpg",
+          "/archive/comics/tso/ch/00004.jpg",
+          "/archive/comics/tso/ch/00005.jpg",
+          "/archive/comics/tso/ch/00006.jpg",
+          "/archive/comics/tso/ch/00007.jpg",
+          "/archive/comics/tso/ch/00008.jpg",
+          "/archive/comics/tso/ch/00009.jpg",
+          "/archive/comics/tso/ch/00101.jpg",
+          "/archive/comics/tso/ch/00102.jpg",
+          "/archive/comics/tso/ch/00103.jpg",
+          "/archive/comics/tso/ch/00104.jpg",
+          "/archive/comics/tso/ch/00105.jpg",
+          "/archive/comics/tso/ch/00106.jpg",
+          "/archive/comics/tso/ch/00107.jpg",
+          "/archive/comics/tso/ch/00108.jpg",
+          "/archive/comics/tso/ch/00109.jpg"
+        ]
+      },
+      "htead": {
+        "name": "How To Embarrass a Duck",
+        "pages": [
+          "/archive/comics/tso/htead/00001.jpg",
+          "/archive/comics/tso/htead/00002.jpg",
+          "/archive/comics/tso/htead/00003.jpg",
+          "/archive/comics/tso/htead/00004.jpg",
+          "/archive/comics/tso/htead/00005.gif",
+          "/archive/comics/tso/htead/00006.gif",
+          "/archive/comics/tso/htead/00007.gif",
+          "/archive/comics/tso/htead/00008.gif"
+        ]
+      },
+      "goe": {
+        "name": "Gentlemen of Excellence",
+        "pages": [
+          "/archive/comics/tso/goe/00001.gif",
+          "/archive/comics/tso/goe/00002.gif",
+          "/archive/comics/tso/goe/00003.gif",
+          "/archive/comics/tso/goe/00004.gif",
+          "/archive/comics/tso/goe/00005.gif",
+          "/archive/comics/tso/goe/00006.gif",
+          "/archive/comics/tso/goe/00007.gif",
+          "/archive/comics/tso/goe/00008.gif"
+        ]
+      },
+      "gc": {
+        "name": "Group Club",
+        "pages": [
+          "/archive/comics/tso/gc/00001.jpg",
+          "/archive/comics/tso/gc/00002.jpg",
+          "/archive/comics/tso/gc/00003.jpg",
+          "/archive/comics/tso/gc/00004.jpg",
+          "/archive/comics/tso/gc/00005.jpg"
+        ]
+      },
+      "fa": {
+        "name": "The Fashion Ambassador",
+        "pages": [
+          "/archive/comics/tso/fa/00001.jpg",
+          "/archive/comics/tso/fa/00002.gif",
+          "/archive/comics/tso/fa/00003.gif",
+          "/archive/comics/tso/fa/00004.gif",
+          "/archive/comics/tso/fa/00005.gif",
+          "/archive/comics/tso/fa/00006.gif"
+        ]
+      },
+      "hfc": {
+        "name": "Hooray For Church",
+        "pages": [
+          "/archive/comics/tso/hfc/00001.gif",
+          "/archive/comics/tso/hfc/00002.gif",
+          "/archive/comics/tso/hfc/00003.gif",
+          "/archive/comics/tso/hfc/00004.gif",
+          "/archive/comics/tso/hfc/00005.gif"
+        ]
+      },
+      "cdasl": {
+        "name": "Cool Dude and Stoner Lou",
+        "desc": "Parody of a certain truly awful webcomic that has long since been forgotten.",
+        "pages": [
+          "/archive/comics/tso/cdasl/cooldudestonerlou1.gif",
+          "/archive/comics/tso/cdasl/cooldudestonerlou2.gif",
+          "/archive/comics/tso/cdasl/cooldudestonerlou3.jpg",
+          "/archive/comics/tso/cdasl/cooldudestonerlou4.jpg",
+          "/archive/comics/tso/cdasl/cooldudestonerlou5.jpg",
+          "/archive/comics/tso/cdasl/cooldudestonerlou6.gif"
+        ]
+      },
+      "wallpapers": {
+        "name": "Wallpapers",
+        "desc": "Desktop wallpapers, selected from various comic panels.",
+        "pages": [
+          "/archive/comics/tso/wallpapers/desktop_aids_1280x1024.jpg",
+          "/archive/comics/tso/wallpapers/desktop_hfc_1280x1024.jpg",
+          "/archive/comics/tso/wallpapers/desktop_sc1_1280x1024.jpg",
+          "/archive/comics/tso/wallpapers/desktop_sc2_1280x1024.jpg",
+          "/archive/comics/tso/wallpapers/desktop_sc3_1280x1024.jpg",
+          "/archive/comics/tso/wallpapers/desktop_sc4_1280x1024.jpg",
+          "/archive/comics/tso/wallpapers/desktop_sparechange_1280x1024.jpg",
+          "/archive/comics/tso/wallpapers/blueghost_wallpaper.jpg"
+        ]
+      },
+      "wizardology": {
+        "name": "Wizardology",
+        "pages": [
+          "/archive/comics/tso/wizardology/p00.jpg",
+          "/archive/comics/tso/wizardology/p01.jpg",
+          "/archive/comics/tso/wizardology/p02.jpg",
+          "/archive/comics/tso/wizardology/p03.jpg",
+          "/archive/comics/tso/wizardology/p04.jpg",
+          "/archive/comics/tso/wizardology/p05.jpg",
+          "/archive/comics/tso/wizardology/p06.jpg",
+          "/archive/comics/tso/wizardology/p07.jpg",
+          "/archive/comics/tso/wizardology/p08.jpg",
+          "/archive/comics/tso/wizardology/p09.jpg",
+          "/archive/comics/tso/wizardology/p10.jpg",
+          "/archive/comics/tso/wizardology/p11.jpg",
+          "/archive/comics/tso/wizardology/p12.jpg",
+          "/archive/comics/tso/wizardology/p13.jpg",
+          "/archive/comics/tso/wizardology/p14.jpg",
+          "/archive/comics/tso/wizardology/p15.jpg"
+        ]
+      },
+      "fappu": {
+        "name": "Fappu Nottep",
+        "pages": [
+          "/archive/comics/tso/fappu/bearbook1.jpg",
+          "/archive/comics/tso/fappu/bearbook2.jpg",
+          "/archive/comics/tso/fappu/bearbook3.jpg",
+          "/archive/comics/tso/fappu/bearbook4.jpg",
+          "/archive/comics/tso/fappu/bearbook5.jpg"
+        ]
+      },
+      "tfwf": {
+        "name": "The First World Flight",
+        "pages": [
+          "/archive/comics/tso/tfwf/tfwf01.jpg",
+          "/archive/comics/tso/tfwf/tfwf02.jpg",
+          "/archive/comics/tso/tfwf/tfwf03.jpg",
+          "/archive/comics/tso/tfwf/tfwf04.jpg",
+          "/archive/comics/tso/tfwf/tfwf05.jpg",
+          "/archive/comics/tso/tfwf/tfwf06.jpg",
+          "/archive/comics/tso/tfwf/tfwf07.jpg",
+          "/archive/comics/tso/tfwf/tfwf08.jpg",
+          "/archive/comics/tso/tfwf/tfwf09.jpg",
+          "/archive/comics/tso/tfwf/tfwf10.jpg",
+          "/archive/comics/tso/tfwf/tfwf11.jpg",
+          "/archive/comics/tso/tfwf/tfwf12.jpg",
+          "/archive/comics/tso/tfwf/tfwf13.jpg",
+          "/archive/comics/tso/tfwf/tfwf14.jpg",
+          "/archive/comics/tso/tfwf/tfwf15.jpg",
+          "/archive/comics/tso/tfwf/tfwf16.jpg",
+          "/archive/comics/tso/tfwf/tfwf17.jpg",
+          "/archive/comics/tso/tfwf/tfwf18.jpg",
+          "/archive/comics/tso/tfwf/tfwf19.jpg",
+          "/archive/comics/tso/tfwf/tfwf20.jpg",
+          "/archive/comics/tso/tfwf/tfwf21.jpg",
+          "/archive/comics/tso/tfwf/tfwf22.jpg",
+          "/archive/comics/tso/tfwf/tfwf23.jpg",
+          "/archive/comics/tso/tfwf/tfwf24.jpg",
+          "/archive/comics/tso/tfwf/tfwf25.jpg",
+          "/archive/comics/tso/tfwf/tfwf26.jpg",
+          "/archive/comics/tso/tfwf/tfwf27.jpg",
+          "/archive/comics/tso/tfwf/tfwf28.jpg",
+          "/archive/comics/tso/tfwf/tfwf29.jpg",
+          "/archive/comics/tso/tfwf/tfwf30.jpg",
+          "/archive/comics/tso/tfwf/tfwf31.jpg",
+          "/archive/comics/tso/tfwf/tfwf32.jpg",
+          "/archive/comics/tso/tfwf/tfwf33.jpg",
+          "/archive/comics/tso/tfwf/tfwf34.jpg",
+          "/archive/comics/tso/tfwf/tfwf35.jpg",
+          "/archive/comics/tso/tfwf/tfwf36.jpg",
+          "/archive/comics/tso/tfwf/tfwf37.jpg",
+          "/archive/comics/tso/tfwf/tfwf38.jpg",
+          "/archive/comics/tso/tfwf/tfwf39.jpg",
+          "/archive/comics/tso/tfwf/tfwf40.jpg",
+          "/archive/comics/tso/tfwf/tfwf41.jpg",
+          "/archive/comics/tso/tfwf/tfwf42.jpg",
+          "/archive/comics/tso/tfwf/tfwf43.jpg",
+          "/archive/comics/tso/tfwf/tfwf44.jpg",
+          "/archive/comics/tso/tfwf/tfwf45.jpg",
+          "/archive/comics/tso/tfwf/tfwf46.jpg",
+          "/archive/comics/tso/tfwf/tfwf47.jpg"
+        ]
+      },
+      "comabear": {
+        "name": "Coma Bear",
+        "desc": "Collaboration between the entire Gangbunch, a group of comic artists from the TSO era.",
+        "pages": [
+          "/archive/comics/tso/comabear/comabear_page1.jpg",
+          "/archive/comics/tso/comabear/comabear_page2.jpg",
+          "/archive/comics/tso/comabear/comabear_page3.jpg"
+        ]
+      }
+    }
+  },
+  "pxs": {
+    "list": [
+      "you-have-a-feeling-its-going-to-be-a-long-day",
+      "headed-for-stardom",
+      "johns-birthday",
+      "prototyped",
+      "a-fun-day-for-bec",
+      "critical-miss",
+      "con-faire",
+      "deadline-day",
+      "a-fun-day-for-gcat",
+      "quality-time",
+      "fetch-quest",
+      "summer-sea-fun",
+      "hunting-lesson",
+      "togy-hawk-pro-skator",
+      "ace-sleuth-jane",
+      "party-crashers",
+      "nak-worth",
+      "suffering-throughfor-the-people",
+      "pones",
+      "a-fun-day-for-jaspers",
+      "killswitch-engage",
+      "hand-made-in-alternia",
+      "indemnity-double-reacharound",
+      "the-town-mouse-and-the-country-mouse",
+      "her-pale-passions",
+      "can-town-in-trouble",
+      "night-at-the-100dseum",
+      "soul-fraying-games",
+      "the-viceroy-and-the-lady-grimme",
+      "horse-play",
+      "lalondian-tourism",
+      "go-fetch",
+      "the-thirst-of-dornamon-gary",
+      "hospitality",
+      "mother-and-grub",
+      "garbage-day",
+      "stand-up-room-only",
+      "damara",
+      "antiquated-japesterism",
+      "the-inaugural-death-of-mister-seven",
+      "a-friend-in-need",
+      "the-mortician",
+      "holiday-activity-pages",
+      "secret-sufferer",
+      "lady-grimme-and-the-red-knight",
+      "three-out-of-five-hats",
+      "birds-and-bees",
+      "steward-of-void",
+      "star-of-the-ocean",
+      "spritecon",
+      "relation-shipping",
+      "summerteen-romance",
+      "vrisky-business"
+    ],
+    "comics": {
+      "you-have-a-feeling-its-going-to-be-a-long-day": {
+        "name": "You Have a Feeling It's Going to Be a Long Day",
+        "credit": "Zack Morrison",
+        "desc": "It is someone's birthday today.",
+        "titleText": {
+          "6": "Welcome to Paradox Space"
+        },
+        "pages": [
+          "/archive/comics/pxs/1-you-have-a-feeling-its-going-to-be-a-long-day/1.png",
+          "/archive/comics/pxs/1-you-have-a-feeling-its-going-to-be-a-long-day/2.png",
+          "/archive/comics/pxs/1-you-have-a-feeling-its-going-to-be-a-long-day/3.png",
+          "/archive/comics/pxs/1-you-have-a-feeling-its-going-to-be-a-long-day/4.png",
+          "/archive/comics/pxs/1-you-have-a-feeling-its-going-to-be-a-long-day/5.png",
+          "/archive/comics/pxs/1-you-have-a-feeling-its-going-to-be-a-long-day/6.png"
+        ]
+      },
+      "headed-for-stardom": {
+        "name": "Headed for Stardom",
+        "credit": "Jonathan Griffiths and J.N. Wiedle",
+        "desc": "A young troll holds a talent competition.",
+        "titleText": {
+          "1": "by which he does not mean bowling. because THAT, that would be gross",
+          "2": "March Hare-idan",
+          "3": "cosplayers: please don't put stickers on your eyes. not even for \"authenticity\""
+        },
+        "pages": [
+          "/archive/comics/pxs/2-headed-for-stardom/1.png",
+          "/archive/comics/pxs/2-headed-for-stardom/2.png",
+          "/archive/comics/pxs/2-headed-for-stardom/3.png"
+        ]
+      },
+      "johns-birthday": {
+        "name": "John's Birthday",
+        "credit": "KC Green",
+        "desc": "It is John's birthday. He went to the zoo.",
+        "titleText": {
+          "1": "john's personal record is just a post-it note on dave's desk that says \"monkeys\""
+        },
+        "pages": [
+          "/archive/comics/pxs/3-johns-birthday/1.png",
+          "/archive/comics/pxs/3-johns-birthday/2.png"
+        ]
+      },
+      "prototyped": {
+        "name": "Prototyped",
+        "credit": "Zack Morrison and J.N. Wiedle",
+        "desc": "A young boy prototypes his kernelsprite.",
+        "titleText": {
+          "3": "if you removed homestuck from the internet and replaced it with just that last panel, no one would ever realize it",
+          "5": "you thought trolls were insectoid but they're actually related to pacmans"
+        },
+        "pages": [
+          "/archive/comics/pxs/4-prototyped/1.png",
+          "/archive/comics/pxs/4-prototyped/2.png",
+          "/archive/comics/pxs/4-prototyped/3.png",
+          "/archive/comics/pxs/4-prototyped/4.png",
+          "/archive/comics/pxs/4-prototyped/5.png",
+          "/archive/comics/pxs/4-prototyped/6.png",
+          "/archive/comics/pxs/4-prototyped/7.png"
+        ]
+      },
+      "a-fun-day-for-bec": {
+        "name": "A Fun Day for Bec",
+        "credit": "Rachel Rocklin, J.N. Wiedle, and Matt Cummings",
+        "desc": "Bec has a fun day.",
+        "titleText": {
+          "2": "GOOD DOG. BEST FRIEND."
+        },
+        "pages": [
+          "/archive/comics/pxs/5-a-fun-day-for-bec/1.png",
+          "/archive/comics/pxs/5-a-fun-day-for-bec/2.png"
+        ]
+      },
+      "critical-miss": {
+        "name": "Critical Miss",
+        "credit": "J.N. Wiedle, Benito Cereno, and Kristin Kemper",
+        "desc": "Two trolls enjoy a friendly game.",
+        "titleText": {
+          "5": "we can say \"f8ck\" but not that other word shhh",
+          "6": "critical whale <3< eridan OTP"
+        },
+        "pages": [
+          "/archive/comics/pxs/6-critical-miss/1.png",
+          "/archive/comics/pxs/6-critical-miss/2.png",
+          "/archive/comics/pxs/6-critical-miss/3.png",
+          "/archive/comics/pxs/6-critical-miss/4.png",
+          "/archive/comics/pxs/6-critical-miss/5.png",
+          "/archive/comics/pxs/6-critical-miss/6.png"
+        ]
+      },
+      "con-faire": {
+        "name": "Con Faire",
+        "credit": "J.N. Wiedle and David McGuire",
+        "desc": "It's a talent show!",
+        "titleText": {
+          "1": "obviously this comic is 100% canon in every way",
+          "6": "only the purest and truest nic cage fans can shed tears like this",
+          "7": "yes. you. you were laughing ",
+          "8": "\"The Evil Team\" is just a cute lil nickname. Don't overthink this.",
+          "9": "Also, Vriska, you tried to mind-control the judge, so, you know... not cool."
+        },
+        "pages": [
+          "/archive/comics/pxs/7-con-faire/1.png",
+          "/archive/comics/pxs/7-con-faire/2.png",
+          "/archive/comics/pxs/7-con-faire/3.png",
+          "/archive/comics/pxs/7-con-faire/4.png",
+          "/archive/comics/pxs/7-con-faire/5.png",
+          "/archive/comics/pxs/7-con-faire/6.png",
+          "/archive/comics/pxs/7-con-faire/7.png",
+          "/archive/comics/pxs/7-con-faire/8.png",
+          "/archive/comics/pxs/7-con-faire/9.png"
+        ]
+      },
+      "deadline-day": {
+        "name": "Deadline Day",
+        "credit": "Ian McConville and Matt Boyd",
+        "desc": "A newspaper tries to stay in business.",
+        "titleText": {
+          "1": "If whatever news source you use doesn't bill itself as a sleazy rag, you're being lied to ",
+          "2": "I dunno, I think \"Hurp bloop bluh\" goes unrecognized too often these days.",
+          "3": "I suppose you could call this... *sunglasses* ...breaking news?",
+          "4": "Hooray! A tragedy!"
+        },
+        "pages": [
+          "/archive/comics/pxs/8-deadline-day/1.png",
+          "/archive/comics/pxs/8-deadline-day/2.png",
+          "/archive/comics/pxs/8-deadline-day/3.png",
+          "/archive/comics/pxs/8-deadline-day/4.png"
+        ]
+      },
+      "a-fun-day-for-gcat": {
+        "name": "A Fun Day for GCat",
+        "credit": "Rachel Rocklin and Matt Cummings",
+        "desc": "GCat has a fun day.",
+        "titleText": {
+          "2": "oh hey i brought you something"
+        },
+        "pages": [
+          "/archive/comics/pxs/9-a-fun-day-for-gcat/1.png",
+          "/archive/comics/pxs/9-a-fun-day-for-gcat/2.png"
+        ]
+      },
+      "quality-time": {
+        "name": "Quality Time",
+        "credit": "Andrew Hussie, J.N. Wiedle, and Hanni Brosh",
+        "desc": "A father takes his son shopping.",
+        "titleText": {
+          "3": "dibs on \"bogus dad crisis\" as the name of my new band",
+          "4": "you tried to click that, didn't you",
+          "5": "dave has a black belt in high fives",
+          "7": "you pick up those beats right now young man",
+          "8": "everyone needs a good nose trimmer"
+        },
+        "pages": [
+          "/archive/comics/pxs/10-quality-time/1.png",
+          "/archive/comics/pxs/10-quality-time/2.png",
+          "/archive/comics/pxs/10-quality-time/3.png",
+          "/archive/comics/pxs/10-quality-time/4.png",
+          "/archive/comics/pxs/10-quality-time/5.png",
+          "/archive/comics/pxs/10-quality-time/6.png",
+          "/archive/comics/pxs/10-quality-time/7.png",
+          "/archive/comics/pxs/10-quality-time/8.png"
+        ]
+      },
+      "fetch-quest": {
+        "name": "Fetch Quest",
+        "credit": "Evan Dahm and Phil Gibson",
+        "desc": "A parcel mistress fetches the mail.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/11-fetch-quest/1.png",
+          "/archive/comics/pxs/11-fetch-quest/2.png",
+          "/archive/comics/pxs/11-fetch-quest/3.png",
+          "/archive/comics/pxs/11-fetch-quest/4.png",
+          "/archive/comics/pxs/11-fetch-quest/5.png",
+          "/archive/comics/pxs/11-fetch-quest/6.png",
+          "/archive/comics/pxs/11-fetch-quest/7.png"
+        ]
+      },
+      "summer-sea-fun": {
+        "name": "Summer Sea Fun",
+        "credit": "KC Green",
+        "desc": "FUN in the SUMER SEA SUN",
+        "titleText": {
+          "1": "<>< BEAUITFIOL"
+        },
+        "pages": [
+          "/archive/comics/pxs/12-summer-sea-fun/1.png"
+        ]
+      },
+      "hunting-lesson": {
+        "name": "Hunting Lesson",
+        "credit": "Phil Gibson and Adrienne Garcia",
+        "desc": "A hunting lesson between two young trolls.",
+        "titleText": {
+          "1": "( =①ω①=)",
+          "2": "(╬⁽⁽ ⁰ ⁾⁾ Д ⁽⁽ ⁰ ⁾⁾)",
+          "3": "(=ＴェＴ=)"
+        },
+        "pages": [
+          "/archive/comics/pxs/13-hunting-lesson/1.png",
+          "/archive/comics/pxs/13-hunting-lesson/2.png",
+          "/archive/comics/pxs/13-hunting-lesson/3.png"
+        ]
+      },
+      "togy-hawk-pro-skator": {
+        "name": "Togy Hawk Pro Skator",
+        "credit": "KC Green",
+        "desc": "Grind kickflip halfpipe rad tubular skagetboarg",
+        "titleText": {
+          "1": "he turts around"
+        },
+        "pages": [
+          "/archive/comics/pxs/14-togy-hawk-pro-skator/1.png"
+        ]
+      },
+      "ace-sleuth-jane": {
+        "name": "Ace Sleuth Jane",
+        "credit": "David McGuire and J.N. Wiedle",
+        "desc": "An Ace Sleuth solves a Mystery",
+        "titleText": {
+          "1": "but who ate the sandwich"
+        },
+        "pages": [
+          "/archive/comics/pxs/15-ace-sleuth-jane/1.png"
+        ]
+      },
+      "party-crashers": {
+        "name": "Party Crashers",
+        "credit": "Kory Bing, Rachel Rocklin, J.N. Wiedle, and Matt Cummings",
+        "desc": "A consort finds a book.",
+        "titleText": {
+          "1": "EXCITEMENT",
+          "2": "a passive aggressive present to Rose from her mother, I'm sure",
+          "3": "honey that's salt water you're going to desalinate that first right",
+          "4": "not pictured: the years crumplehat spent in culinary school learning the art of pastry",
+          "7": "tea, earl gray, hot"
+        },
+        "pages": [
+          "/archive/comics/pxs/16-party-crashers/1.png",
+          "/archive/comics/pxs/16-party-crashers/2.png",
+          "/archive/comics/pxs/16-party-crashers/3.png",
+          "/archive/comics/pxs/16-party-crashers/4.png",
+          "/archive/comics/pxs/16-party-crashers/5.png",
+          "/archive/comics/pxs/16-party-crashers/6.png",
+          "/archive/comics/pxs/16-party-crashers/7.png",
+          "/archive/comics/pxs/16-party-crashers/8.png"
+        ]
+      },
+      "nak-worth": {
+        "name": "Nak Worth",
+        "credit": "J.N. Wiedle and Phil Gibson",
+        "desc": "Just a regular day on LOHAC.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/17-nak-worth/1.png"
+        ]
+      },
+      "suffering-throughfor-the-people": {
+        "name": "Suffering Through/For the People",
+        "credit": "Zack Morrison, Adrienne Garcia, and EK Weaver",
+        "desc": "A prophet tries to talk with his people.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/18-suffering-throughfor-the-people/1.png",
+          "/archive/comics/pxs/18-suffering-throughfor-the-people/2.png"
+        ]
+      },
+      "pones": {
+        "name": "Pones",
+        "credit": "KC Green",
+        "desc": "POney",
+        "titleText": {
+          "1": "tune in tomorrow for the eXCITING conCLUTION",
+          "2": "we made u read this fore two days u fat nasty trash"
+        },
+        "pages": [
+          "/archive/comics/pxs/19-pones/1.png",
+          "/archive/comics/pxs/19-pones/2.png"
+        ]
+      },
+      "a-fun-day-for-jaspers": {
+        "name": "A Fun Day for Jaspers",
+        "credit": "Rachel Rocklin, J.N. Wiedle, and Allison Shabet",
+        "desc": "Jaspers has a Fun Day.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/20-a-fun-day-for-jaspers/1.gif"
+        ]
+      },
+      "killswitch-engage": {
+        "name": "Killswitch ENGAGE",
+        "credit": "J.N. Wiedle, Phil Gibson, and Mallory Dyer",
+        "desc": "A troll requires technical assistance.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/21-killswitch-engage/1.png",
+          "/archive/comics/pxs/21-killswitch-engage/2.png",
+          "/archive/comics/pxs/21-killswitch-engage/3.png",
+          "/archive/comics/pxs/21-killswitch-engage/4.png"
+        ]
+      },
+      "hand-made-in-alternia": {
+        "name": "Hand Made in Alternia",
+        "credit": "J.N. Wiedle and Phil Gibson",
+        "desc": "An excellent host turns to his young ward for help with preparing refreshments for guests.",
+        "titleText": {
+          "1": "rude"
+        },
+        "pages": [
+          "/archive/comics/pxs/22-hand-made-in-alternia/1.png"
+        ]
+      },
+      "indemnity-double-reacharound": {
+        "name": "Indemnity Double Reacharound",
+        "credit": "J.N. Wiedle, Benito Cereno, John Keogh, and David McGuire",
+        "desc": "Detective Berrybreath is on the case.",
+        "titleText": {
+          "2": "i didnt spend four years in junior detective school to be called 'mr honeytongue'",
+          "4": "you gotta do what you gotta do, berrybreath",
+          "5": "what a twist that nobody saw coming from the first page"
+        },
+        "pages": [
+          "/archive/comics/pxs/23-indemnity-double-reacharound/1.png",
+          "/archive/comics/pxs/23-indemnity-double-reacharound/2.png",
+          "/archive/comics/pxs/23-indemnity-double-reacharound/3.png",
+          "/archive/comics/pxs/23-indemnity-double-reacharound/4.png",
+          "/archive/comics/pxs/23-indemnity-double-reacharound/5.png"
+        ]
+      },
+      "the-town-mouse-and-the-country-mouse": {
+        "name": "The Town Mouse and the Country Mouse",
+        "credit": "J.N. Wiedle, Magnolia Porter, and Mary Borsellino",
+        "desc": "Two friends visit each other's dream homes.",
+        "titleText": {
+          "2": "PM slipped some mail in your back pocket during that hug. that was her angle."
+        },
+        "pages": [
+          "/archive/comics/pxs/24-the-town-mouse-and-the-country-mouse/1.png",
+          "/archive/comics/pxs/24-the-town-mouse-and-the-country-mouse/2.png",
+          "/archive/comics/pxs/24-the-town-mouse-and-the-country-mouse/3.png",
+          "/archive/comics/pxs/24-the-town-mouse-and-the-country-mouse/4.png"
+        ]
+      },
+      "her-pale-passions": {
+        "name": "Her Pale Passions",
+        "credit": "Phil Gibson",
+        "desc": "A goddess seeks advice from a book.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/25-her-pale-passions/1.png"
+        ]
+      },
+      "can-town-in-trouble": {
+        "name": "Can Town in Trouble!",
+        "credit": "J.N. Wiedle, Kristin Kemper, Adrienne Garcia, and Bea Munoz",
+        "desc": "Can Town is in trouble!",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/26-can-town-in-trouble/1.png",
+          "/archive/comics/pxs/26-can-town-in-trouble/2.png",
+          "/archive/comics/pxs/26-can-town-in-trouble/3.png",
+          "/archive/comics/pxs/26-can-town-in-trouble/4.png",
+          "/archive/comics/pxs/26-can-town-in-trouble/5.png"
+        ]
+      },
+      "night-at-the-100dseum": {
+        "name": "Night at the 100dseum",
+        "credit": "Jonathan Griffiths and Mallory Dyer",
+        "desc": "Two young trolls experience high art.",
+        "titleText": {
+          "1": "well this isn't ominous at all",
+          "2": "The humidity in there is like, 80%.",
+          "3": "eaugh i can taste the air from here",
+          "4": "karkat really needs to learn how to \"chillax\"",
+          "5": "wait that second room actually looks kind of interesting what was in there nO NOT THE HORSECLOCKS",
+          "6": "that's not anime sparkles it's just sweat",
+          "7": "you might think Terezi got off easy not being able to see the atrocities but you have NO idea what that place smells like",
+          "8": "T H E S W E A T I",
+          "9": "gross",
+          "10": "The moral of the story is that museums are awful, kids. Tell 'em ol' Paradox Space told you that."
+        },
+        "pages": [
+          "/archive/comics/pxs/27-night-at-the-100dseum/1.png",
+          "/archive/comics/pxs/27-night-at-the-100dseum/2.png",
+          "/archive/comics/pxs/27-night-at-the-100dseum/3.png",
+          "/archive/comics/pxs/27-night-at-the-100dseum/4.png",
+          "/archive/comics/pxs/27-night-at-the-100dseum/5.png",
+          "/archive/comics/pxs/27-night-at-the-100dseum/6.png",
+          "/archive/comics/pxs/27-night-at-the-100dseum/7.png",
+          "/archive/comics/pxs/27-night-at-the-100dseum/8.png",
+          "/archive/comics/pxs/27-night-at-the-100dseum/9.png",
+          "/archive/comics/pxs/27-night-at-the-100dseum/10.png"
+        ]
+      },
+      "soul-fraying-games": {
+        "name": "Soul-Fraying Games",
+        "credit": "J.N. Wiedle, Alex Rofael, and Rennie Kingsley",
+        "desc": "A group of kids prepare to have an adventure of the role-playing sort.",
+        "titleText": {
+          "1": "what's a mom",
+          "3": "seriously, name a bad dwarf. you can't",
+          "4": "karkat is strictly against PDA he is such a prude",
+          "5": "luckily every dane cook movie has a green cover and has been eaten by the Mayor YOU'RE WELCOME"
+        },
+        "pages": [
+          "/archive/comics/pxs/28-soul-fraying-games/1.png",
+          "/archive/comics/pxs/28-soul-fraying-games/2.png",
+          "/archive/comics/pxs/28-soul-fraying-games/3.png",
+          "/archive/comics/pxs/28-soul-fraying-games/4.png",
+          "/archive/comics/pxs/28-soul-fraying-games/5.png"
+        ]
+      },
+      "the-viceroy-and-the-lady-grimme": {
+        "name": "The Viceroy and the Lady Grimme",
+        "credit": "Phil Gibson, Fin Hickey, and Evin Weston",
+        "desc": "So a Lady and a Viceroy walk into a dungeon,",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/29-the-viceroy-and-the-lady-grimme/1.png",
+          "/archive/comics/pxs/29-the-viceroy-and-the-lady-grimme/2.png",
+          "/archive/comics/pxs/29-the-viceroy-and-the-lady-grimme/3.png",
+          "/archive/comics/pxs/29-the-viceroy-and-the-lady-grimme/4.png",
+          "/archive/comics/pxs/29-the-viceroy-and-the-lady-grimme/5.png"
+        ]
+      },
+      "horse-play": {
+        "name": "Horse Play",
+        "credit": "Jonathan Griffiths, Zack Morrison, Phil Gibson, and Mallory Dyer",
+        "desc": "An excellent host wants to play a game.",
+        "titleText": {
+          "1": "what",
+          "2": "obtuse",
+          "3": "the knight is the horse riding the horse of course of course",
+          "4": "horse appreciation party",
+          "5": "what do you mean YOU don't sleep in a nightcap",
+          "6": "wink"
+        },
+        "pages": [
+          "/archive/comics/pxs/30-horse-play/1.png",
+          "/archive/comics/pxs/30-horse-play/2.png",
+          "/archive/comics/pxs/30-horse-play/3.png",
+          "/archive/comics/pxs/30-horse-play/4.png",
+          "/archive/comics/pxs/30-horse-play/5.png",
+          "/archive/comics/pxs/30-horse-play/6.png"
+        ]
+      },
+      "lalondian-tourism": {
+        "name": "Lalondian Tourism",
+        "credit": "Phil Gibson, Adrienne Garcia, and Alex Rofael",
+        "desc": "A troll explains a human room to another troll.",
+        "titleText": {
+          "1": "4RF 4RF 4RF",
+          "2": "tale as old as time, song as old as gunplay skills",
+          "3": "s t o p",
+          "4": "what"
+        },
+        "pages": [
+          "/archive/comics/pxs/31-lalondian-tourism/1.png",
+          "/archive/comics/pxs/31-lalondian-tourism/2.png",
+          "/archive/comics/pxs/31-lalondian-tourism/3.png",
+          "/archive/comics/pxs/31-lalondian-tourism/4.png"
+        ]
+      },
+      "go-fetch": {
+        "name": "Go Fetch",
+        "credit": "Kristin Kemper, Arden Ripley, and Shelby Cragg",
+        "desc": "Two friends talk while a family guardian gets in the way.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/32-go-fetch/1.png",
+          "/archive/comics/pxs/32-go-fetch/2.png",
+          "/archive/comics/pxs/32-go-fetch/3.png",
+          "/archive/comics/pxs/32-go-fetch/4.png",
+          "/archive/comics/pxs/32-go-fetch/5.png"
+        ]
+      },
+      "the-thirst-of-dornamon-gary": {
+        "name": "the thirst of dornamon gary",
+        "credit": "KC Green",
+        "desc": "dude. yes.",
+        "titleText": {
+          "1": "sweet shading, brah",
+          "2": "p a r t y",
+          "3": "party party party party party party party party party party party",
+          "4": "fcuking squirells",
+          "5": "too be......crontinue'd??????"
+        },
+        "pages": [
+          "/archive/comics/pxs/33-the-thirst-of-dornamon-gary/1.png",
+          "/archive/comics/pxs/33-the-thirst-of-dornamon-gary/2.png",
+          "/archive/comics/pxs/33-the-thirst-of-dornamon-gary/3.png",
+          "/archive/comics/pxs/33-the-thirst-of-dornamon-gary/4.png",
+          "/archive/comics/pxs/33-the-thirst-of-dornamon-gary/5.png"
+        ]
+      },
+      "hospitality": {
+        "name": "Hospitality",
+        "credit": "Phil Gibson, Alex Rofael, and Mary Cagle",
+        "desc": "HeY bRo :o)",
+        "titleText": {
+          "1": "well who could that be",
+          "2": "fun fact gamzee is actually his own bobblehead toy",
+          "3": "aRe YoU sAyInG i AiNt GoT a WiCkEd SiX pAcK?",
+          "4": "\"dignity\" and \"grace\" and \"Eridan's self-insert historical fanfiction\"",
+          "5": "rude, gamzee. rude."
+        },
+        "pages": [
+          "/archive/comics/pxs/34-hospitality/1.png",
+          "/archive/comics/pxs/34-hospitality/2.png",
+          "/archive/comics/pxs/34-hospitality/3.png",
+          "/archive/comics/pxs/34-hospitality/4.png",
+          "/archive/comics/pxs/34-hospitality/5.png"
+        ]
+      },
+      "mother-and-grub": {
+        "name": "Mother & Grub",
+        "credit": "Adrienne Garcia and Alex Rofael",
+        "desc": "A mother will do whatever is best for her children.",
+        "titleText": {
+          "1": "well that's that",
+          "2": ":33",
+          "3": "luckily he landed in a pillow oasis, a naturally occurring Alternian land formation",
+          "4": "those two sure hecked up",
+          "5": "you done did good, kid"
+        },
+        "pages": [
+          "/archive/comics/pxs/35-mother-and-grub/1.png",
+          "/archive/comics/pxs/35-mother-and-grub/2.png",
+          "/archive/comics/pxs/35-mother-and-grub/3.png",
+          "/archive/comics/pxs/35-mother-and-grub/4.png",
+          "/archive/comics/pxs/35-mother-and-grub/5.png"
+        ]
+      },
+      "garbage-day": {
+        "name": "Garbage Day",
+        "credit": "Alex Rofael and Incineraptor",
+        "desc": "Chores need to be done, but who will do them?",
+        "titleText": {
+          "1": "ironic velcro",
+          "2": "The canon end of Homestuck, everybody go home we did it."
+        },
+        "pages": [
+          "/archive/comics/pxs/36-garbage-day/1.png",
+          "/archive/comics/pxs/36-garbage-day/2.png"
+        ]
+      },
+      "stand-up-room-only": {
+        "name": "Stand-Up Room Only",
+        "credit": "J.N. Wiedle, Phil Gibson, and Adrienne Garcia",
+        "desc": "Tell us a joke, funny boy.",
+        "titleText": {
+          "1": "this actually happened"
+        },
+        "pages": [
+          "/archive/comics/pxs/37-stand-up-room-only/1.png"
+        ]
+      },
+      "damara": {
+        "name": "Damara",
+        "credit": "Allison Shabet, Mary Borsellino, and Tom Siddell",
+        "desc": "Damara Megido died yesterday.",
+        "titleText": {
+          "1": "shut up, kankri "
+        },
+        "pages": [
+          "/archive/comics/pxs/38-damara/1.png",
+          "/archive/comics/pxs/38-damara/2.png",
+          "/archive/comics/pxs/38-damara/3.png",
+          "/archive/comics/pxs/38-damara/4.png",
+          "/archive/comics/pxs/38-damara/5.png",
+          "/archive/comics/pxs/38-damara/6.png",
+          "/archive/comics/pxs/38-damara/7.png"
+        ]
+      },
+      "antiquated-japesterism": {
+        "name": "Antiquated Japesterism",
+        "credit": "EK Weaver, Alex Rofael, and KT Jayne",
+        "desc": "A dashing lad explores the jungle.",
+        "titleText": {
+          "1": "tell them how you pulled a boner all day long"
+        },
+        "pages": [
+          "/archive/comics/pxs/39-antiquated-japesterism/1.png"
+        ]
+      },
+      "the-inaugural-death-of-mister-seven": {
+        "name": "The Inaugural Death of Mister Seven",
+        "credit": "Andrew Hussie and J.N. Wiedle",
+        "desc": "Crowbar needs to round up a bunch of chuckleheads.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/1.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/2.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/3.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/4.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/5.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/6.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/7.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/8.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/9.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/10.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/11.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/12.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/13.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/14.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/15.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/16.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/17.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/18.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/19.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/20.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/21.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/22.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/23.png",
+          "/archive/comics/pxs/40-the-inaugural-death-of-mister-seven/24.png"
+        ]
+      },
+      "a-friend-in-need": {
+        "name": "A Friend in Need",
+        "credit": "Phil Gibson, Mary Borsellino, and Rennie Kingsley",
+        "desc": "A fashionable troll helps a friend in need.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/41-a-friend-in-need/1.png",
+          "/archive/comics/pxs/41-a-friend-in-need/2.png"
+        ]
+      },
+      "the-mortician": {
+        "name": "The Mortician",
+        "credit": "Hanni Brosh and Phil Gibson",
+        "desc": "There is need for a mortician.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/42-the-mortician/1.png",
+          "/archive/comics/pxs/42-the-mortician/2.png",
+          "/archive/comics/pxs/42-the-mortician/3.png"
+        ]
+      },
+      "holiday-activity-pages": {
+        "name": "Holiday Activity Pages",
+        "credit": "David McGuire",
+        "desc": "Happy Holidays! Here's some fun activities to do!",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/43-holiday-activity-pages/1.png",
+          "/archive/comics/pxs/43-holiday-activity-pages/2.png",
+          "/archive/comics/pxs/43-holiday-activity-pages/3.png",
+          "/archive/comics/pxs/43-holiday-activity-pages/4.png"
+        ]
+      },
+      "secret-sufferer": {
+        "name": "Secret Sufferer",
+        "credit": "Matt Cummings and Phil Gibson",
+        "desc": "Holiday Traditions",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/44-secret-sufferer/1.png",
+          "/archive/comics/pxs/44-secret-sufferer/2.png",
+          "/archive/comics/pxs/44-secret-sufferer/3.png",
+          "/archive/comics/pxs/44-secret-sufferer/4.png",
+          "/archive/comics/pxs/44-secret-sufferer/5.png",
+          "/archive/comics/pxs/44-secret-sufferer/6.png",
+          "/archive/comics/pxs/44-secret-sufferer/7.png",
+          "/archive/comics/pxs/44-secret-sufferer/8.png",
+          "/archive/comics/pxs/44-secret-sufferer/9.png",
+          "/archive/comics/pxs/44-secret-sufferer/10.png",
+          "/archive/comics/pxs/44-secret-sufferer/11.png",
+          "/archive/comics/pxs/44-secret-sufferer/12.png",
+          "/archive/comics/pxs/44-secret-sufferer/13.png",
+          "/archive/comics/pxs/44-secret-sufferer/14.png",
+          "/archive/comics/pxs/44-secret-sufferer/15.png",
+          "/archive/comics/pxs/44-secret-sufferer/16.png",
+          "/archive/comics/pxs/44-secret-sufferer/17.png",
+          "/archive/comics/pxs/44-secret-sufferer/18.png",
+          "/archive/comics/pxs/44-secret-sufferer/19.png",
+          "/archive/comics/pxs/44-secret-sufferer/20.png",
+          "/archive/comics/pxs/44-secret-sufferer/21.png",
+          "/archive/comics/pxs/44-secret-sufferer/22.png",
+          "/archive/comics/pxs/44-secret-sufferer/23.png",
+          "/archive/comics/pxs/44-secret-sufferer/24.png",
+          "/archive/comics/pxs/44-secret-sufferer/25.png"
+        ]
+      },
+      "lady-grimme-and-the-red-knight": {
+        "name": "Lady Grimme and the Red Knight",
+        "credit": "J.N. Wiedle and Mary Borsellino",
+        "desc": "The continuing adventures of Lady Grimme as she encounters the Red Knight.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/45-lady-grimme-and-the-red-knight/1.png",
+          "/archive/comics/pxs/45-lady-grimme-and-the-red-knight/2.png",
+          "/archive/comics/pxs/45-lady-grimme-and-the-red-knight/3.png",
+          "/archive/comics/pxs/45-lady-grimme-and-the-red-knight/4.png",
+          "/archive/comics/pxs/45-lady-grimme-and-the-red-knight/5.png"
+        ]
+      },
+      "three-out-of-five-hats": {
+        "name": "Three out of Five Hats",
+        "credit": "Incineraptor and John Girard",
+        "desc": "A bored youth reviews his peers.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/46-three-out-of-five-hats/1.png",
+          "/archive/comics/pxs/46-three-out-of-five-hats/2.png",
+          "/archive/comics/pxs/46-three-out-of-five-hats/3.png",
+          "/archive/comics/pxs/46-three-out-of-five-hats/4.png"
+        ]
+      },
+      "birds-and-bees": {
+        "name": "Birds and Bees",
+        "credit": "Matt Cummings and Alex Rofael",
+        "desc": "A young girl asks her guardian a big question.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/47-birds-and-bees/1.png"
+        ]
+      },
+      "steward-of-void": {
+        "name": "Steward of Void",
+        "credit": "Shad Andrews and Phil Gibson",
+        "desc": "A coolkid finds himself on a very....strong island.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/48-steward-of-void/1.png",
+          "/archive/comics/pxs/48-steward-of-void/2.png",
+          "/archive/comics/pxs/48-steward-of-void/3.png"
+        ]
+      },
+      "star-of-the-ocean": {
+        "name": "Star of the Ocean",
+        "credit": "Phil Gibson and Adrienne Garcia",
+        "desc": "A young troll searches for a lost treasure.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/49-star-of-the-ocean/1.png",
+          "/archive/comics/pxs/49-star-of-the-ocean/2.png"
+        ]
+      },
+      "spritecon": {
+        "name": "Spritecon",
+        "credit": "Hanni Brosh and Phil Gibson",
+        "desc": "A group of game abstractions have a conference.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/50-spritecon/1.png",
+          "/archive/comics/pxs/50-spritecon/2.png",
+          "/archive/comics/pxs/50-spritecon/3.png",
+          "/archive/comics/pxs/50-spritecon/4.png"
+        ]
+      },
+      "relation-shipping": {
+        "name": "Relation Shipping",
+        "credit": "Phil Gibson and Rennie Kingsley",
+        "desc": "A young troll offers the purrfect service.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/51-relation-shipping/1.png"
+        ]
+      },
+      "summerteen-romance": {
+        "name": "Summerteen Romance",
+        "credit": "Jonathan Griffiths, Zack Morrison, Tauhid Bondia, and Shelby Cragg",
+        "desc": "A great number of trolls go to summer camp.",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/52-summerteen-romance/1.png",
+          "/archive/comics/pxs/52-summerteen-romance/2.png",
+          "/archive/comics/pxs/52-summerteen-romance/3.png",
+          "/archive/comics/pxs/52-summerteen-romance/4.png",
+          "/archive/comics/pxs/52-summerteen-romance/5.png",
+          "/archive/comics/pxs/52-summerteen-romance/6.png",
+          "/archive/comics/pxs/52-summerteen-romance/7.png",
+          "/archive/comics/pxs/52-summerteen-romance/8.png",
+          "/archive/comics/pxs/52-summerteen-romance/9.png",
+          "/archive/comics/pxs/52-summerteen-romance/10.png",
+          "/archive/comics/pxs/52-summerteen-romance/11.png",
+          "/archive/comics/pxs/52-summerteen-romance/12.png",
+          "/archive/comics/pxs/52-summerteen-romance/13.png",
+          "/archive/comics/pxs/52-summerteen-romance/14.png",
+          "/archive/comics/pxs/52-summerteen-romance/15.png",
+          "/archive/comics/pxs/52-summerteen-romance/16.png",
+          "/archive/comics/pxs/52-summerteen-romance/17.png",
+          "/archive/comics/pxs/52-summerteen-romance/18.png",
+          "/archive/comics/pxs/52-summerteen-romance/19.png",
+          "/archive/comics/pxs/52-summerteen-romance/20.png",
+          "/archive/comics/pxs/52-summerteen-romance/21.png",
+          "/archive/comics/pxs/52-summerteen-romance/22.png",
+          "/archive/comics/pxs/52-summerteen-romance/23.png",
+          "/archive/comics/pxs/52-summerteen-romance/24.png",
+          "/archive/comics/pxs/52-summerteen-romance/25.png",
+          "/archive/comics/pxs/52-summerteen-romance/26.png",
+          "/archive/comics/pxs/52-summerteen-romance/27.png",
+          "/archive/comics/pxs/52-summerteen-romance/28.png",
+          "/archive/comics/pxs/52-summerteen-romance/29.png",
+          "/archive/comics/pxs/52-summerteen-romance/30.png",
+          "/archive/comics/pxs/52-summerteen-romance/31.png",
+          "/archive/comics/pxs/52-summerteen-romance/32.png",
+          "/archive/comics/pxs/52-summerteen-romance/33.png",
+          "/archive/comics/pxs/52-summerteen-romance/34.png",
+          "/archive/comics/pxs/52-summerteen-romance/35.png",
+          "/archive/comics/pxs/52-summerteen-romance/36.png",
+          "/archive/comics/pxs/52-summerteen-romance/37.png",
+          "/archive/comics/pxs/52-summerteen-romance/38.png",
+          "/archive/comics/pxs/52-summerteen-romance/39.png",
+          "/archive/comics/pxs/52-summerteen-romance/40.png",
+          "/archive/comics/pxs/52-summerteen-romance/41.png",
+          "/archive/comics/pxs/52-summerteen-romance/42.png",
+          "/archive/comics/pxs/52-summerteen-romance/43.png",
+          "/archive/comics/pxs/52-summerteen-romance/44.png",
+          "/archive/comics/pxs/52-summerteen-romance/45.png",
+          "/archive/comics/pxs/52-summerteen-romance/46.png",
+          "/archive/comics/pxs/52-summerteen-romance/47.png",
+          "/archive/comics/pxs/52-summerteen-romance/48.png",
+          "/archive/comics/pxs/52-summerteen-romance/49.png",
+          "/archive/comics/pxs/52-summerteen-romance/50.png",
+          "/archive/comics/pxs/52-summerteen-romance/51.png"
+        ]
+      },
+      "vrisky-business": {
+        "name": "Vrisky Business",
+        "credit": "Kory Bing, Andrew Hussie, and Mallory Dyer",
+        "desc": "A special bonus story originally included in PXS Book 2!",
+        "titleText": {},
+        "pages": [
+          "/archive/comics/pxs/53-vrisky-business/1.png",
+          "/archive/comics/pxs/53-vrisky-business/2.png",
+          "/archive/comics/pxs/53-vrisky-business/3.png",
+          "/archive/comics/pxs/53-vrisky-business/4.png",
+          "/archive/comics/pxs/53-vrisky-business/5.png",
+          "/archive/comics/pxs/53-vrisky-business/6.png",
+          "/archive/comics/pxs/53-vrisky-business/7.png",
+          "/archive/comics/pxs/53-vrisky-business/8.png"
+        ]
+      }
+    }
+  },
+  "snaps": {
+    "list": [
+      "2016-10-24",
+      "2016-10-31",
+      "2016-11-11",
+      "2016-11-18",
+      "2016-11-24",
+      "2016-12-02",
+      "2016-12-23",
+      "2016-12-25",
+      "2017-08-29"
+    ],
+    "comics": {
+      "2016-10-24": {
+        "name": "2016-10-24",
+        "pages": [
+          "/archive/comics/snaps/2016-10-24/1.jpg",
+          "/archive/comics/snaps/2016-10-24/2.jpg",
+          "/archive/comics/snaps/2016-10-24/3.jpg",
+          "/archive/comics/snaps/2016-10-24/4.jpg",
+          "/archive/comics/snaps/2016-10-24/5.jpg",
+          "/archive/comics/snaps/2016-10-24/6.jpg",
+          "/archive/comics/snaps/2016-10-24/7.jpg",
+          "/archive/comics/snaps/2016-10-24/8.jpg",
+          "/archive/comics/snaps/2016-10-24/9.jpg",
+          "/archive/comics/snaps/2016-10-24/10.jpg",
+          "/archive/comics/snaps/2016-10-24/11.jpg"
+        ]
+      },
+      "2016-10-31": {
+        "name": "2016-10-31",
+        "pages": [
+          "/archive/comics/snaps/2016-10-31/1.jpg",
+          "/archive/comics/snaps/2016-10-31/2.jpg",
+          "/archive/comics/snaps/2016-10-31/3.jpg",
+          "/archive/comics/snaps/2016-10-31/4.jpg",
+          "/archive/comics/snaps/2016-10-31/5.jpg",
+          "/archive/comics/snaps/2016-10-31/6.jpg",
+          "/archive/comics/snaps/2016-10-31/7.jpg",
+          "/archive/comics/snaps/2016-10-31/8.jpg",
+          "/archive/comics/snaps/2016-10-31/9.jpg",
+          "/archive/comics/snaps/2016-10-31/10.jpg",
+          "/archive/comics/snaps/2016-10-31/11.jpg"
+        ]
+      },
+      "2016-11-11": {
+        "name": "2016-11-11",
+        "pages": [
+          "/archive/comics/snaps/2016-11-11/1.jpg",
+          "/archive/comics/snaps/2016-11-11/2.jpg",
+          "/archive/comics/snaps/2016-11-11/3.jpg",
+          "/archive/comics/snaps/2016-11-11/4.jpg",
+          "/archive/comics/snaps/2016-11-11/5.jpg",
+          "/archive/comics/snaps/2016-11-11/6.jpg",
+          "/archive/comics/snaps/2016-11-11/7.jpg",
+          "/archive/comics/snaps/2016-11-11/8.jpg",
+          "/archive/comics/snaps/2016-11-11/9.jpg",
+          "/archive/comics/snaps/2016-11-11/10.jpg",
+          "/archive/comics/snaps/2016-11-11/11.jpg",
+          "/archive/comics/snaps/2016-11-11/12.jpg",
+          "/archive/comics/snaps/2016-11-11/13.jpg",
+          "/archive/comics/snaps/2016-11-11/14.jpg"
+        ]
+      },
+      "2016-11-18": {
+        "name": "2016-11-18",
+        "pages": [
+          "/archive/comics/snaps/2016-11-18/1.jpg"
+        ]
+      },
+      "2016-11-24": {
+        "name": "2016-11-24",
+        "pages": [
+          "/archive/comics/snaps/2016-11-24/1.jpg",
+          "/archive/comics/snaps/2016-11-24/2.jpg",
+          "/archive/comics/snaps/2016-11-24/3.jpg",
+          "/archive/comics/snaps/2016-11-24/4.jpg",
+          "/archive/comics/snaps/2016-11-24/5.jpg",
+          "/archive/comics/snaps/2016-11-24/6.jpg"
+        ]
+      },
+      "2016-12-02": {
+        "name": "2016-12-02",
+        "pages": [
+          "/archive/comics/snaps/2016-12-02/1.jpg",
+          "/archive/comics/snaps/2016-12-02/2.jpg",
+          "/archive/comics/snaps/2016-12-02/3.jpg",
+          "/archive/comics/snaps/2016-12-02/4.jpg"
+        ]
+      },
+      "2016-12-23": {
+        "name": "2016-12-23",
+        "pages": [
+          "/archive/comics/snaps/2016-12-23/1.jpg",
+          "/archive/comics/snaps/2016-12-23/2.jpg",
+          "/archive/comics/snaps/2016-12-23/3.jpg",
+          "/archive/comics/snaps/2016-12-23/4.jpg",
+          "/archive/comics/snaps/2016-12-23/5.jpg",
+          "/archive/comics/snaps/2016-12-23/6.jpg",
+          "/archive/comics/snaps/2016-12-23/7.jpg",
+          "/archive/comics/snaps/2016-12-23/8.jpg",
+          "/archive/comics/snaps/2016-12-23/9.jpg",
+          "/archive/comics/snaps/2016-12-23/10.jpg",
+          "/archive/comics/snaps/2016-12-23/11.jpg",
+          "/archive/comics/snaps/2016-12-23/12.jpg",
+          "/archive/comics/snaps/2016-12-23/13.jpg",
+          "/archive/comics/snaps/2016-12-23/14.jpg",
+          "/archive/comics/snaps/2016-12-23/15.jpg",
+          "/archive/comics/snaps/2016-12-23/16.jpg",
+          "/archive/comics/snaps/2016-12-23/17.jpg"
+        ]
+      },
+      "2016-12-25": {
+        "name": "2016-12-25",
+        "pages": [
+          "/archive/comics/snaps/2016-12-25/1.jpg"
+        ]
+      },
+      "2017-08-29": {
+        "name": "2017-08-29",
+        "pages": [
+          "/archive/comics/snaps/2017-08-29/1.mp4"
+        ]
+      }
+    }
+  }
+}
