@@ -1,4 +1,4 @@
-<sburb  char='meenah' startAction='startGame' description="first area" scale='2' levelPath='./levels/openbound' resourcePath='./resources/openbound'>
+<sburb  char='meenah' startAction='startGame' description="first area" scale='2' levelPath='assets://storyfiles/hs2/05260/levels/openbound' resourcePath='assets://storyfiles/hs2/05260/resources/openbound'>
 
 <dependencies>
 	<dependency>standardTemplates.xml</dependency>
