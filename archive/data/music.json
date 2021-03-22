@@ -139,6 +139,7 @@
       "ultimate-koopa",
       "viva-la-vida",
       "westminister-quarters",
+	  "where-making-this-happen",
       "wind-scene",
       "yahoos-and-triangles",
       "you-gained-a-level"
@@ -2455,6 +2456,36 @@
     "group": "Tracks featured in Homestuck",
     "pages": [
       "ps_titlescreen"
+    ]
+  },
+  "where-making-this-happen": {
+    "name": "where making this happen",
+    "artists": [
+      {
+        "who": "david-ko",
+        "what": null
+      }
+    ],
+    "album": [
+      "unreleased-tracks"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 28,
+    "lyrics": null,
+    "references": [],
+    "referencedBy": [
+      "SBAHJthemovie1"
+    ],
+    "date": null,
+    "directory": "where-making-this-happen",
+    "bandcampId": null,
+    "urls": [
+    ],
+    "group": "Tracks featured in Homestuck",
+    "pages": [
+      "assets://sweetbroandhellajeff/movies/SBAHJthemovie1.swf"
     ]
   },
   "riches-to-ruins-movement-ii": {
@@ -42196,6 +42227,12 @@
     "date": "2009-04-07T01:00:00.000Z",
     "tracks": [
       "problem-sleuth-theme"
+    ]
+  },
+  "assets://sweetbroandhellajeff/movies/SBAHJthemovie1.swf": {
+    "date": "1970-01-01T01:00:00.000Z",
+    "tracks": [
+      "where-making-this-happen"
     ]
   },
   "001977": {
