@@ -3,6 +3,9 @@ var bolhq_pages = ["002544", "002551", "002733", "002880", "002926", "002970"]
 
 var looping_flashes = ['00980_1',]
 
+// TODO
+var hq_enabled = true
+
 module.exports = {
     hidden: true,
     
@@ -14,21 +17,16 @@ module.exports = {
             const filename = page.media[0].split('/').pop()
             const plainname = filename.split(".").slice(0, -1).join(".")
             const base_url = page.media[0].split("/").slice(0, -1).join("/")
+            const ext = filename.split('.').pop()
 
-            if (page_num == "002880") {
-                archive.audioData[page.media[0]] = [
-                    {
-                        href: `${base_url}/${plainname}_bolin_1.mp3`,
-                        loop: (looping_flashes.includes(`${plainname}_1`))
-                    },
-                ]
-            } else {
-                if (bolhq_pages.includes(page_num)) {
-                    // what is the difference???
+            archive.mspa.story[page_num].media[0] = `${base_url}/${plainname}_bolin.${ext}`
+            
+            if (hq_enabled && bolhq_pages.includes(page_num)) {
+                if (page_num == "002880") {
                     archive.audioData[page.media[0]] = [
                         {
-                            href: `${base_url}/${plainname}_bolin.mp3`,
-                            loop: (looping_flashes.includes(plainname))
+                            href: `${base_url}/${plainname}_bolin_1.mp3`,
+                            loop: (looping_flashes.includes(`${plainname}_1`))
                         },
                     ]
                 } else {
