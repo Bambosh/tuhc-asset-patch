@@ -22,6 +22,7 @@ module.exports = {
     
     edit(archive) {
         console.log("Setting HQ audio")
+        archive.flags['HQAUDIO'] = true
         hq_pages.forEach(page_num => {
             const page = archive.mspa.story[page_num]
 

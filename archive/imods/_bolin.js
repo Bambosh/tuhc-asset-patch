@@ -3,14 +3,12 @@ var bolhq_pages = ["002544", "002551", "002733", "002880", "002926", "002970"]
 
 var looping_flashes = ['00980_1',]
 
-// TODO
-var hq_enabled = true
-
 module.exports = {
     hidden: true,
     
     edit(archive) {
-        console.log("Setting Bolin audio")
+        var hq_enabled = Boolean(archive.flags['HQAUDIO'])
+        console.log("Setting Bolin audio", "hq=", hq_enabled)
         bolin_pages.forEach(page_num => {
             const page = archive.mspa.story[page_num]
 
