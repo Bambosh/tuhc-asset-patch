@@ -13,9 +13,19 @@ var hq_pages = [
     "008801", "008998", "009348", "009349", "009828", "009859"
 ]
 
+var two_track_flashes = ['00980', '03435', '04370']
+
 var looping_flashes = [
     ['00980_1', '00980_2', '07921']
 ]
+
+var hq_baked_in = [
+    "00077", "00088", "00090", "00253", "00338", "00250", "00388", "00422", "00476", 
+    "00836", "00843", "00871", "00879", "00918", "00938", "03000", "03077", "03715", 
+    "03722", "04817", "04822", "04824", "06397", "07445"
+]
+
+// TODO: What is up with 00253 00338 ???
 
 module.exports = {
     hidden: true,
@@ -29,9 +39,10 @@ module.exports = {
             const filename = page.media[0].split('/').pop()
             const plainname = filename.split(".").slice(0, -1).join(".")
             const base_url = page.media[0].split("/").slice(0, -1).join("/")
-            // const ext = filename.split('.').pop()
+            const ext = filename.split('.').pop()
 
-            if (['00980', '03435', '04370'].includes(plainname)){ 
+            // audiodata is keyed to the normal swf path, not _hq.swf.
+            if (two_track_flashes.includes(plainname)){ 
                 archive.audioData[page.media[0]] = [
                     {
                         href: `${base_url}/${plainname}_1.mp3`, 
@@ -49,6 +60,8 @@ module.exports = {
                         href: `${base_url}/cascade_segment${i}.mp3`, 
                         loop: (looping_flashes.includes(`cascade_segment${i}`))
                     })
+            } else if (hq_baked_in.includes(plainname)) {
+                archive.mspa.story[page_num].media[0] = `${base_url}/${plainname}_hqbaked.${ext}`
             } else {
                 archive.audioData[page.media[0]] = [
                     {

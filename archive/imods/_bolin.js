@@ -1,6 +1,9 @@
 var bolin_pages = ["002238", "002544", "002551", "002722", "002730", "002733", "002880", "002926", "002970", "003620"]
 var bolhq_pages = ["002544", "002551", "002733", "002880", "002926", "002970"]
 
+var hq_baked_in = ["00338", "00644", "00822", "00830", "01720",]
+// Only 00644 has HQ for bolin, seemingly
+
 var looping_flashes = ['00980_1',]
 
 module.exports = {
@@ -27,6 +30,8 @@ module.exports = {
                             loop: (looping_flashes.includes(`${plainname}_1`))
                         },
                     ]
+                } else if (hq_baked_in.includes(plainname)) {
+                    archive.mspa.story[page_num].media[0] = `${base_url}/${plainname}_bolin_hqbaked.${ext}`
                 } else {
                     archive.audioData[page.media[0]] = [
                         {
