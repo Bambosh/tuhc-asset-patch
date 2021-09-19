@@ -1,0 +1,1243 @@
+'1':
+  authors: Zack Morrison
+  description: It is someone's birthday today.
+  pages:
+    '1':
+      pagenum: '001'
+      src: comic_001.png
+    '2':
+      pagenum: '002'
+      src: comic_002.png
+    '3':
+      pagenum: '003'
+      src: comic_003.png
+    '4':
+      pagenum: '004'
+      src: comic_004.png
+    '5':
+      pagenum: '005'
+      src: comic_005.png
+    '6':
+      alt: Welcome to Paradox Space.
+      pagenum: '006'
+      src: comic_006.png
+      tags: '#welcome to paradox space'
+  title: YOU HAVE A FEELING IT'S GOING TO BE A LONG DAY
+'10':
+  authors: Andrew Hussie, J.N. Wiedle, and Hanni Brosh
+  description: A father takes his son shopping.
+  pages:
+    '1':
+      pagenum: '042'
+      src: comic_042.png
+    '2':
+      pagenum: '043'
+      src: comic_043.png
+    '3':
+      alt: dibs on "bogus dad crisis" as the name of my new band
+      pagenum: '044'
+      src: comic_044.png
+    '4':
+      alt: you tried to click that, didn't you
+      pagenum: '045'
+      src: comic_045.png
+    '5':
+      alt: dave has a black belt in high fives
+      pagenum: '046'
+      src: comic_046.png
+      tags: '#high fives'
+    '6':
+      pagenum: '047'
+      src: comic_047.png
+    '7':
+      alt: you pick up those beats right now young man
+      pagenum: 048
+      src: comic_048.png
+    '8':
+      alt: everyone needs a good nose trimmer
+      pagenum: 049
+      src: comic_049.png
+  title: QUALITY TIME
+'11':
+  authors: Evan Dahm and Phil Gibson
+  description: A parcel mistress fetches the mail.
+  pages:
+    '1':
+      pagenum: '050'
+      src: comic_050.png
+    '2':
+      pagenum: '051'
+      src: comic_051.png
+    '3':
+      pagenum: '052'
+      src: comic_052.png
+    '4':
+      pagenum: '053'
+      src: comic_053.png
+    '5':
+      pagenum: '054'
+      src: comic_054.png
+    '6':
+      pagenum: '055'
+      src: comic_055.png
+    '7':
+      pagenum: '056'
+      src: comic_056.png
+  title: FETCH QUEST
+'12':
+  authors: KC Green
+  description: FUN in the SUMER SEA SUN
+  pages:
+    '1':
+      alt: <>< BEAUITFIOL
+      pagenum: '057'
+      src: comic_057.png
+  title: SUMMER SEA FUN
+'13':
+  authors: Phil Gibson and Adrienne Garcia
+  description: A hunting lesson between two young trolls.
+  pages:
+    '1':
+      alt: "( =\u2460\u03C9\u2460=)"
+      pagenum: 058
+      src: comic_058.png
+    '2':
+      alt: "(\u256C\u207D\u207D \u2070 \u207E\u207E \u0414 \u207D\u207D \u2070 \u207E\
+        \u207E)"
+      pagenum: 059
+      src: comic_059.png
+    '3':
+      alt: "(=\uFF34\u30A7\uFF34=)"
+      pagenum: '060'
+      src: comic_060.png
+  title: HUNTING LESSON
+'14':
+  authors: KC Green
+  description: Grind kickflip halfpipe rad tubular skagetboarg
+  pages:
+    '1':
+      alt: he turts around
+      pagenum: '061'
+      src: comic_061.png
+  title: TOGY HAWK PRO SKATOR
+'15':
+  authors: David McGuire and J.N. Wiedle
+  description: An Ace Sleuth solves a Mystery
+  pages:
+    '1':
+      alt: but who ate the sandwich
+      pagenum: '062'
+      src: comic_062.png
+  title: ACE SLEUTH JANE
+'16':
+  authors: Zack Morrison, Adrienne Garcia, and EK Weaver
+  description: A consort finds a book.
+  pages:
+    '1':
+      alt: EXCITEMENT
+      pagenum: '063'
+      src: comic_063.png
+    '2':
+      alt: a passive aggressive present to Rose from her mother, I'm sure
+      pagenum: '064'
+      src: comic_064.png
+    '3':
+      alt: honey that's salt water you're going to desalinate that first right
+      pagenum: '065'
+      src: comic_065.png
+    '4':
+      alt: 'not pictured: the years crumplehat spent in culinary school learning the
+        art of pastry'
+      pagenum: '066'
+      src: comic_066.png
+    '5':
+      pagenum: '067'
+      src: comic_067.png
+    '6':
+      pagenum: 068
+      src: comic_068.png
+    '7':
+      alt: tea, earl gray, hot
+      pagenum: 069
+      src: comic_069.png
+    '8':
+      pagenum: '070'
+      src: comic_070.png
+  title: PARTY CRASHERS
+'17':
+  authors: J.N. Wiedle and Phil Gibson
+  description: Just a regular day on LOHAC.
+  pages:
+    '1':
+      pagenum: '071'
+      src: comic_071.png
+  title: NAK WORTH
+'18':
+  authors: Zack Morrison, Adrienne Garcia, and EK Weaver
+  description: A prophet tries to talk with his people.
+  pages:
+    '1':
+      pagenum: '072'
+      src: comic_072.png
+    '2':
+      pagenum: '073'
+      src: comic_073.png
+  title: SUFFERING THROUGH/FOR THE PEOPLE
+'19':
+  authors: KC Green
+  description: POney
+  pages:
+    '1':
+      alt: tune in tomorrow for the eXCITING conCLUTION
+      pagenum: '074'
+      src: comic_074.png
+    '2':
+      alt: we made u read this fore two days u fat nasty trash
+      pagenum: '075'
+      src: comic_075.png
+  title: PONES
+'2':
+  authors: Jonathan Griffiths and J.N. Wiedle
+  description: A young troll holds a talent competition.
+  pages:
+    '1':
+      alt: by which he does not mean bowling. because THAT, that would be gross
+      pagenum: '007'
+      src: comic_007.png
+    '2':
+      alt: March Hare-idan
+      pagenum: 008
+      src: comic_008.png
+    '3':
+      alt: 'cosplayers: please don''t put stickers on your eyes. not even for "authenticity"'
+      pagenum: 009
+      src: comic_009.png
+      tags: '#every fuckin glitter biscuit'
+  title: HEADED FOR STARDOM
+'20':
+  authors: Rachel Rocklin, J.N. Wiedle, and Allison Shabet
+  description: Jaspers has a Fun Day.
+  pages:
+    '1':
+      pagenum: '076'
+      src: comic_076.png
+      tags: '#a fun day'
+  title: A FUN DAY FOR JASPERS
+'21':
+  authors: J.N. Wiedle, Phil Gibson, and Mallory Dyer
+  description: A troll requires technical assistance.
+  pages:
+    '1':
+      pagenum: '077'
+      src: comic_077.png
+    '2':
+      pagenum: 078
+      src: comic_078.png
+    '3':
+      pagenum: 079
+      src: comic_079.png
+    '4':
+      pagenum: 080
+      src: comic_080.png
+  title: KILLSWITCH ENGAGE
+'22':
+  authors: J.N. Wiedle and Phil Gibson
+  description: An excellent host turns to his young ward for help with preparing refreshments
+    for guests.
+  pages:
+    '1':
+      alt: rude
+      pagenum: 081
+      src: comic_081.png
+  title: HAND MADE IN ALTERNIA
+'23':
+  authors: J.N. Wiedle, Benito Cereno, John Keogh, and David McGuire
+  description: ''
+  pages:
+    '1':
+      pagenum: 082
+      src: comic_082.png
+      tags: '#scalemate noir'
+    '2':
+      alt: i didnt spend four years in junior detective school to be called 'mr honeytongue'
+      pagenum: 083
+      src: comic_083.png
+      tags: '#scalemate noir'
+    '3':
+      pagenum: 084
+      src: comic_084.png
+      tags: '#scalemate noir'
+    '4':
+      alt: you gotta do what you gotta do, berrybreath
+      pagenum: 085
+      src: comic_085.png
+      tags: '#scalemate noir'
+    '5':
+      alt: what a twist that nobody saw coming from the first page
+      pagenum: 086
+      src: comic_086.png
+      tags: '#scalemate noir'
+  title: INDEMNITY DOUBLE REACHAROUND
+'24':
+  authors: J.N. Wiedle, Magnolia Porter, and Mary Borsellino
+  description: Two friends visit each other's dream homes.
+  pages:
+    '1':
+      pagenum: 087
+      src: comic_087.png
+    '2':
+      alt: PM slipped some mail in your back pocket during that hug. that was her
+        angle.
+      pagenum: 088
+      src: comic_088.png
+    '3':
+      pagenum: 089
+      src: comic_089.png
+    '4':
+      pagenum: 090
+      src: comic_090.png
+  title: THE TOWN MOUSE AND THE COUNTRY MOUSE
+'25':
+  authors: Phil Gibson
+  description: A goddess seeks advice from a book.
+  pages:
+    '1':
+      pagenum: 091
+      src: comic_091.png
+  title: HER PALE PASSIONS
+'26':
+  authors: J.N. Wiedle, Kristin Kemper, Adrienne Garcia, and Bea Munoz
+  description: Can Town is in trouble!
+  pages:
+    '1':
+      pagenum: 092
+      src: comic_092.png
+    '2':
+      pagenum: 093
+      src: comic_093.png
+    '3':
+      pagenum: 094
+      src: comic_094.png
+    '4':
+      pagenum: 095
+      src: comic_095.png
+    '5':
+      pagenum: 096
+      src: comic_096.png
+  title: CAN TOWN IN TROUBLE!
+'27':
+  authors: Jonathan Griffiths and Mallory Dyer
+  description: Two young trolls experience high art.
+  pages:
+    '1':
+      alt: well this isn't ominous at all
+      pagenum: 097
+      src: comic_097.png
+    '10':
+      alt: The moral of the story is that museums are awful, kids. Tell 'em ol' Paradox
+        Space told you that.
+      pagenum: '106'
+      src: comic_106.png
+    '2':
+      alt: The humidity in there is like, 80%.
+      pagenum: 098
+      src: comic_098.png
+    '3':
+      alt: eaugh i can taste the air from here
+      pagenum: 099
+      src: comic_099.png
+    '4':
+      alt: karkat really needs to learn how to "chillax"
+      pagenum: '100'
+      src: comic_100.png
+    '5':
+      alt: wait that second room actually looks kind of interesting what was in there
+        nO NOT THE HORSECLOCKS
+      pagenum: '101'
+      src: comic_101.png
+    '6':
+      alt: that's not anime sparkles it's just sweat
+      pagenum: '102'
+      src: comic_102.png
+    '7':
+      alt: you might think Terezi got off easy not being able to see the atrocities
+        but you have NO idea what that place smells like
+      pagenum: '103'
+      src: comic_103.png
+    '8':
+      alt: T H E S W E A T I
+      pagenum: '104'
+      src: comic_104.png
+    '9':
+      alt: gross
+      pagenum: '105'
+      src: comic_105.png
+  title: NIGHT AT THE 100DSEUM
+'28':
+  authors: J.N. Wiedle, Alex Rofael, and Rennie Kingsley
+  description: A group of kids prepare to have an adventure of the role-playing sort.
+  pages:
+    '1':
+      alt: what's a mom
+      pagenum: '107'
+      src: comic_107.png
+    '2':
+      pagenum: '108'
+      src: comic_108.png
+    '3':
+      alt: seriously, name a bad dwarf. you can't
+      pagenum: '109'
+      src: comic_109.png
+    '4':
+      alt: karkat is strictly against PDA he is such a prude
+      pagenum: '110'
+      src: comic_110.png
+    '5':
+      alt: luckily every dane cook movie has a green cover and has been eaten by the
+        Mayor YOU'RE WELCOME
+      pagenum: '111'
+      src: comic_111.png
+  title: SOUL-FRAYING GAMES
+'29':
+  authors: Phil Gibson, Fin Hickey, and Evin Weston
+  description: So a Lady and a Viceroy walk into a dungeon...
+  pages:
+    '1':
+      pagenum: '112'
+      src: comic_112.png
+    '2':
+      pagenum: '113'
+      src: comic_113.png
+    '3':
+      pagenum: '114'
+      src: comic_114.png
+    '4':
+      pagenum: '115'
+      src: comic_115.png
+    '5':
+      pagenum: '116'
+      src: comic_116.png
+  title: THE VICEROY AND THE LADY GRIMME
+'3':
+  authors: KC Green
+  description: It is John's birthday. He went to the zoo.
+  pages:
+    '1':
+      alt: john's personal record is just a post-it note on dave's desk that says
+        "monkeys"
+      pagenum: '010'
+      src: comic_010.png
+      tags: '#kc green'
+    '2':
+      pagenum: '011'
+      src: comic_011.png
+  title: JOHN'S BIRTHDAY
+'30':
+  authors: Jonathan Griffiths, Zack Morrison, Phil Gibson, and Mallory Dyer
+  description: An excellent host wants to play a game.
+  pages:
+    '1':
+      alt: what
+      pagenum: '117'
+      src: comic_117.png
+    '2':
+      alt: obtuse
+      pagenum: '118'
+      src: comic_118.png
+    '3':
+      alt: the knight is the horse riding the horse of course of course
+      pagenum: '119'
+      src: comic_119.png
+    '4':
+      alt: horse appreciation party
+      pagenum: '120'
+      src: comic_120.png
+    '5':
+      alt: what do you mean YOU don't sleep in a nightcap
+      pagenum: '121'
+      src: comic_121.png
+    '6':
+      alt: wink
+      pagenum: '122'
+      src: comic_122.png
+  title: HORSE PLAY
+'31':
+  authors: Phil Gibson, Adrienne Garcia, and Alex Rofael
+  description: A troll explains a human room to another troll.
+  pages:
+    '1':
+      alt: 4RF 4RF 4RF
+      pagenum: '123'
+      src: comic_123.png
+    '2':
+      alt: tale as old as time, song as old as gunplay skills
+      pagenum: '124'
+      src: comic_124.png
+    '3':
+      alt: s t o p
+      pagenum: '125'
+      src: comic_125.png
+    '4':
+      alt: what
+      pagenum: '126'
+      src: comic_126.png
+  title: LALONDIAN TOURISM
+'32':
+  authors: Kristin Kemper, Arden Ripley, and Shelby Cragg
+  description: Two friends talk while a family guardian gets in the way.
+  pages:
+    '1':
+      pagenum: '127'
+      src: comic_127.png
+    '2':
+      pagenum: '128'
+      src: comic_128.png
+    '3':
+      pagenum: '129'
+      src: comic_129.png
+    '4':
+      pagenum: '130'
+      src: comic_130.png
+    '5':
+      pagenum: '131'
+      src: comic_131.png
+  title: GO FETCH
+'33':
+  authors: KC Green
+  description: dude. yes.
+  pages:
+    '1':
+      alt: sweet shading, brah
+      pagenum: '132'
+      src: comic_132.png
+    '2':
+      alt: p a r t y
+      pagenum: '133'
+      src: comic_133.png
+    '3':
+      alt: party party party party party party party party party party party
+      pagenum: '134'
+      src: comic_134.png
+    '4':
+      alt: fcuking squirells
+      pagenum: '135'
+      src: comic_135.png
+    '5':
+      alt: too be......crontinue'd??????
+      pagenum: '136'
+      src: comic_136.png
+  title: THE THIRST OF DORNAMON GARY
+'34':
+  authors: Phil Gibson, Alex Rofael, and Mary Cagle
+  description: HeY bRo :o)
+  pages:
+    '1':
+      alt: well who could that be
+      pagenum: '137'
+      src: comic_137.png
+    '2':
+      alt: fun fact gamzee is actually his own bobblehead toy
+      pagenum: '138'
+      src: comic_138.png
+    '3':
+      alt: aRe YoU sAyInG i AiNt GoT a WiCkEd SiX pAcK?
+      pagenum: '139'
+      src: comic_139.png
+    '4':
+      alt: '"dignity" and "grace" and "Eridan''s self-insert historical fanfiction"'
+      pagenum: '140'
+      src: comic_140.png
+    '5':
+      alt: rude, gamzee. rude.
+      pagenum: '141'
+      src: comic_141.png
+  title: HOSPITALITY
+'35':
+  authors: Adrienne Garcia and Alex Rofael
+  description: A mother will do whatever is best for her children.
+  pages:
+    '1':
+      alt: well that's that
+      pagenum: '142'
+      src: comic_142.png
+    '2':
+      alt: :33
+      pagenum: '143'
+      src: comic_143.png
+    '3':
+      alt: luckily he landed in a pillow oasis, a naturally occurring Alternian land
+        formation
+      pagenum: '144'
+      src: comic_144.png
+    '4':
+      alt: those two sure hecked up
+      pagenum: '145'
+      src: comic_145.png
+    '5':
+      alt: you done did good, kid
+      pagenum: '146'
+      src: comic_146.png
+  title: MOTHER & GRUB
+'36':
+  authors: Alex Rofael and Incineraptor
+  description: Chores need to be done, but who will do them?
+  pages:
+    '1':
+      alt: ironic velcro
+      pagenum: '147'
+      src: comic_147.png
+    '2':
+      alt: The canon end of Homestuck, everybody go home we did it.
+      pagenum: '148'
+      src: comic_148.png
+  title: GARBAGE DAY
+'37':
+  authors: J.N. Wiedle, Phil Gibson, and Adrienne Garcia
+  description: Tell us a joke, funny boy.
+  pages:
+    '1':
+      alt: this actually happened
+      pagenum: '149'
+      src: comic_149.png
+  title: STAND-UP ROOM ONLY
+'38':
+  authors: Allison Shabet, Mary Borsellino, and Tom Siddell
+  description: Damara Megido died yesterday.
+  pages:
+    '1':
+      alt: shut up, kankri
+      pagenum: '156'
+      src: comic_156.png
+  title: DAMARA
+'39':
+  authors: EK Weaver, Alex Rofael, and KT Jayne
+  description: A dashing lad explores the jungle.
+  pages:
+    '1':
+      alt: tell them how you pulled a boner all day long
+      pagenum: '157'
+      src: comic_157.png
+  title: ANTIQUATED JAPESTERISM
+'4':
+  authors: Zack Morrison and J.N. Wiedle
+  description: A young boy prototypes his kernelsprite.
+  pages:
+    '1':
+      pagenum: '012'
+      src: comic_012.png
+    '2':
+      pagenum: '013'
+      src: comic_013.png
+    '3':
+      alt: if you removed homestuck from the internet and replaced it with just that
+        last panel, no one would ever realize it
+      pagenum: '014'
+      src: comic_014.png
+    '4':
+      pagenum: '015'
+      src: comic_015.png
+    '5':
+      alt: you thought trolls were insectoid but they're actually related to pacmans
+      pagenum: '016'
+      src: comic_016.png
+    '6':
+      pagenum: '017'
+      src: comic_017.png
+    '7':
+      pagenum: 018
+      src: comic_018.png
+  title: PROTOTYPED
+'40':
+  authors: Andrew Hussie and J.N. Wiedle
+  description: Crowbar needs to round up a bunch of chuckleheads.
+  pages:
+    '1':
+      pagenum: '158'
+      src: comic_158.png
+    '10':
+      pagenum: '167'
+      src: comic_167.png
+    '11':
+      pagenum: '168'
+      src: comic_168.png
+    '12':
+      pagenum: '169'
+      src: comic_169.png
+    '13':
+      pagenum: '170'
+      src: comic_170.png
+    '14':
+      pagenum: '171'
+      src: comic_171.png
+    '15':
+      pagenum: '172'
+      src: comic_172.png
+    '16':
+      pagenum: '173'
+      src: comic_173.png
+    '17':
+      pagenum: '174'
+      src: comic_174.png
+    '18':
+      pagenum: '175'
+      src: comic_175.png
+    '19':
+      pagenum: '176'
+      src: comic_176.png
+    '2':
+      pagenum: '159'
+      src: comic_159.png
+    '20':
+      pagenum: '177'
+      src: comic_177.png
+    '21':
+      pagenum: '178'
+      src: comic_178.png
+    '22':
+      pagenum: '179'
+      src: comic_179.png
+    '23':
+      pagenum: '180'
+      src: comic_180.png
+    '24':
+      pagenum: '181'
+      src: comic_181.png
+    '3':
+      pagenum: '160'
+      src: comic_160.png
+    '4':
+      pagenum: '161'
+      src: comic_161.png
+    '5':
+      pagenum: '162'
+      src: comic_162.png
+    '6':
+      pagenum: '163'
+      src: comic_163.png
+    '7':
+      pagenum: '164'
+      src: comic_164.png
+    '8':
+      pagenum: '165'
+      src: comic_165.png
+    '9':
+      pagenum: '166'
+      src: comic_166.png
+  title: THE INAUGURAL DEATH OF MISTER SEVEN
+'41':
+  authors: Phil Gibson, Mary Borsellino, and Rennie Kingsley
+  description: A fashionable troll helps a friend in need.
+  pages:
+    '1':
+      pagenum: '182'
+      src: comic_182.png
+    '2':
+      pagenum: '183'
+      src: comic_183.png
+  title: A FRIEND IN NEED
+'42':
+  authors: Hanni Brosh and Phil Gibson
+  description: There is need for a mortician.
+  pages:
+    '1':
+      pagenum: '184'
+      src: comic_184.png
+    '2':
+      pagenum: '185'
+      src: comic_185.png
+    '3':
+      pagenum: '186'
+      src: comic_186.png
+  title: THE MORTICIAN
+'43':
+  authors: David McGuire
+  description: Happy Holidays! Here's some fun activities to do!
+  pages:
+    '1':
+      pagenum: '187'
+      src: comic_187.png
+    '2':
+      pagenum: '188'
+      src: comic_188.png
+    '3':
+      pagenum: '189'
+      src: comic_189.png
+    '4':
+      pagenum: '190'
+      src: comic_190.png
+  title: HOLIDAY ACTIVITY PAGES
+'44':
+  authors: Matt Cummings and Phil Gibson
+  description: Holiday Traditions
+  pages:
+    '1':
+      pagenum: '191'
+      src: comic_191.png
+    '10':
+      pagenum: '200'
+      src: comic_200.png
+    '11':
+      pagenum: '201'
+      src: comic_201.png
+    '12':
+      pagenum: '202'
+      src: comic_202.png
+    '13':
+      pagenum: '203'
+      src: comic_203.png
+    '14':
+      pagenum: '204'
+      src: comic_204.png
+    '15':
+      pagenum: '205'
+      src: comic_205.png
+    '16':
+      pagenum: '206'
+      src: comic_206.png
+    '17':
+      pagenum: '207'
+      src: comic_207.png
+    '18':
+      pagenum: '208'
+      src: comic_208.png
+    '19':
+      pagenum: '209'
+      src: comic_209.png
+    '2':
+      pagenum: '192'
+      src: comic_192.png
+    '20':
+      pagenum: '210'
+      src: comic_210.png
+    '21':
+      pagenum: '211'
+      src: comic_211.png
+    '22':
+      pagenum: '212'
+      src: comic_212.png
+    '23':
+      pagenum: '213'
+      src: comic_213.png
+    '24':
+      pagenum: '214'
+      src: comic_214.png
+    '25':
+      pagenum: '215'
+      src: comic_215.png
+    '3':
+      pagenum: '193'
+      src: comic_193.png
+    '4':
+      pagenum: '194'
+      src: comic_194.png
+    '5':
+      pagenum: '195'
+      src: comic_195.png
+    '6':
+      pagenum: '196'
+      src: comic_196.png
+    '7':
+      pagenum: '197'
+      src: comic_197.png
+    '8':
+      pagenum: '198'
+      src: comic_198.png
+    '9':
+      pagenum: '199'
+      src: comic_199.png
+  title: SECRET SUFFERER
+'45':
+  authors: J.N. Wiedle and Mary Borsellino
+  description: The continuing adventures of Lady Grimme as she encounters the Red
+    Knight.
+  pages:
+    '1':
+      pagenum: '216'
+      src: comic_216.png
+    '2':
+      pagenum: '217'
+      src: comic_217.png
+    '3':
+      pagenum: '218'
+      src: comic_218.png
+    '4':
+      pagenum: '219'
+      src: comic_219.png
+    '5':
+      pagenum: '220'
+      src: comic_220.png
+  title: LADY GRIMME AND THE RED KNIGHT
+'46':
+  authors: Incineraptor and John Girard
+  description: A bored youth reviews his peers.
+  pages:
+    '1':
+      pagenum: '221'
+      src: comic_221.png
+    '2':
+      pagenum: '222'
+      src: comic_222.png
+    '3':
+      pagenum: '223'
+      src: comic_223.png
+    '4':
+      pagenum: '224'
+      src: comic_224.png
+  title: THREE OUT OF FIVE HATS
+'47':
+  authors: Matt Cummings and Alex Rofael
+  description: A young girl asks her guardian a big question.
+  pages:
+    '1':
+      pagenum: '225'
+      src: comic_225.png
+  title: BIRDS AND BEES
+'48':
+  authors: Shad Andrews and Phil Gibson
+  description: A coolkid finds himself on a very....strong island.
+  pages:
+    '1':
+      pagenum: '226'
+      src: comic_226.png
+    '2':
+      pagenum: '227'
+      src: comic_227.png
+    '3':
+      pagenum: '228'
+      src: comic_228.png
+  title: STEWARD OF VOID
+'49':
+  authors: Phil Gibson and Adrienne Garcia
+  description: A young troll searches for a lost treasure.
+  pages:
+    '1':
+      pagenum: '229'
+      src: comic_229.png
+    '2':
+      pagenum: '230'
+      src: comic_230.png
+  title: STAR OF THE OCEAN
+'5':
+  authors: Rachel Rocklin, J.N. Wiedle, and Matt Cummings
+  description: Bec has a fun day.
+  pages:
+    '1':
+      pagenum: 019
+      src: comic_019.png
+      tags: '#sports #a fun day'
+    '2':
+      alt: GOOD DOG. BEST FRIEND.
+      pagenum: '020'
+      src: comic_020.png
+      tags: '#a fun day'
+  title: A FUN DAY FOR BEC
+'50':
+  authors: Hanni Brosh and Phil Gibson
+  description: A group of game abstractions have a conference.
+  pages:
+    '1':
+      pagenum: '231'
+      src: comic_231.png
+    '2':
+      pagenum: '232'
+      src: comic_232.png
+    '3':
+      pagenum: '233'
+      src: comic_233.png
+    '4':
+      pagenum: '234'
+      src: comic_234.png
+  title: SPRITECON
+'51':
+  authors: Phil Gibson and Rennie Kingsley
+  description: A young troll offers the purrfect service.
+  pages:
+    '1':
+      pagenum: '235'
+      src: comic_235.png
+  title: RELATION SHIPPING
+'52':
+  authors: Jonathan Griffiths, Zack Morrison, Tauhid Bondia, and Shelby Cragg
+  description: A great number of trolls go to summer camp.
+  pages:
+    '1':
+      pagenum: '236'
+      src: comic_236.png
+    '10':
+      pagenum: '245'
+      src: comic_245.png
+    '11':
+      pagenum: '246'
+      src: comic_246.png
+    '12':
+      pagenum: '247'
+      src: comic_247.png
+    '13':
+      pagenum: '248'
+      src: comic_248.png
+    '14':
+      pagenum: '249'
+      src: comic_249.png
+    '15':
+      pagenum: '250'
+      src: comic_250.png
+    '16':
+      pagenum: '251'
+      src: comic_251.png
+    '17':
+      pagenum: '252'
+      src: comic_252.png
+    '18':
+      pagenum: '253'
+      src: comic_253.png
+    '19':
+      pagenum: '254'
+      src: comic_254.png
+    '2':
+      pagenum: '237'
+      src: comic_237.png
+    '20':
+      pagenum: '255'
+      src: comic_255.png
+    '21':
+      pagenum: '256'
+      src: comic_256.png
+    '22':
+      pagenum: '257'
+      src: comic_257.png
+    '23':
+      pagenum: '258'
+      src: comic_258.png
+    '24':
+      pagenum: '259'
+      src: comic_259.png
+    '25':
+      pagenum: '260'
+      src: comic_260.png
+    '26':
+      pagenum: '261'
+      src: comic_261.png
+    '27':
+      pagenum: '262'
+      src: comic_262.png
+    '28':
+      pagenum: '263'
+      src: comic_263.png
+    '29':
+      pagenum: '264'
+      src: comic_264.png
+    '3':
+      pagenum: '238'
+      src: comic_238.png
+    '30':
+      pagenum: '265'
+      src: comic_265.png
+    '31':
+      pagenum: '266'
+      src: comic_266.png
+    '32':
+      pagenum: '267'
+      src: comic_267.png
+    '33':
+      pagenum: '268'
+      src: comic_268.png
+    '34':
+      pagenum: '269'
+      src: comic_269.png
+    '35':
+      pagenum: '270'
+      src: comic_270.png
+    '36':
+      pagenum: '271'
+      src: comic_271.png
+    '37':
+      pagenum: '272'
+      src: comic_272.png
+    '38':
+      pagenum: '273'
+      src: comic_273.png
+    '39':
+      pagenum: '274'
+      src: comic_274.png
+    '4':
+      pagenum: '239'
+      src: comic_239.png
+    '40':
+      pagenum: '275'
+      src: comic_275.png
+    '41':
+      pagenum: '276'
+      src: comic_276.png
+    '42':
+      pagenum: '277'
+      src: comic_277.png
+    '43':
+      pagenum: '278'
+      src: comic_278.png
+    '44':
+      pagenum: '279'
+      src: comic_279.png
+    '45':
+      pagenum: '280'
+      src: comic_280.png
+    '46':
+      pagenum: '281'
+      src: comic_281.png
+    '47':
+      pagenum: '282'
+      src: comic_282.png
+    '48':
+      pagenum: '283'
+      src: comic_283.png
+    '49':
+      pagenum: '284'
+      src: comic_284.png
+    '5':
+      pagenum: '240'
+      src: comic_240.png
+    '50':
+      pagenum: '285'
+      src: comic_285.png
+    '51':
+      pagenum: '286'
+      src: comic_286.png
+    '6':
+      pagenum: '241'
+      src: comic_241.png
+    '7':
+      pagenum: '242'
+      src: comic_242.png
+    '8':
+      pagenum: '243'
+      src: comic_243.png
+    '9':
+      pagenum: '244'
+      src: comic_244.png
+  title: SUMMERTEEN ROMANCE
+'53':
+  authors: Kory Bing, Andrew Hussie, and Mallory Dyer
+  description: PXS Book 2 is up for preorder! There's a special bonus story included,
+    here's a preview!
+  pages:
+    '1':
+      pagenum: '287'
+      src: comic_287.png
+    '2':
+      pagenum: '288'
+      src: comic_288.png
+    '3':
+      pagenum: '289'
+      src: comic_289.png
+    '4':
+      pagenum: '290'
+      src: comic_290.png
+    '5':
+      pagenum: '291'
+      src: comic_291.png
+  title: 'PSX BOOK 2 PREVIEW: VRISKY BUSINESS'
+'6':
+  authors: J.N. Wiedle, Benito Cereno, and Kristin Kemper
+  description: Two trolls enjoy a friendly game.
+  pages:
+    '1':
+      pagenum: '021'
+      src: comic_021.png
+    '2':
+      pagenum: '022'
+      src: comic_022.png
+      tags: '#critical wh8le'
+    '3':
+      pagenum: '023'
+      src: comic_023.png
+    '4':
+      pagenum: '024'
+      src: comic_024.png
+    '5':
+      alt: we can say "f8ck" but not that other word shhh
+      pagenum: '025'
+      src: comic_025.png
+      tags: '#those eyebrows'
+    '6':
+      alt: critical whale <3< eridan OTP
+      pagenum: '026'
+      src: comic_026.png
+  title: CRITICAL MISS
+'7':
+  authors: J.N. Wiedle and David McGuire
+  description: It's a talent show!
+  pages:
+    '1':
+      alt: obviously this comic is 100% canon in every way
+      pagenum: '027'
+      src: comic_027.png
+    '2':
+      pagenum: 028
+      src: comic_028.png
+    '3':
+      pagenum: 029
+      src: comic_029.png
+    '4':
+      pagenum: '030'
+      src: comic_030.png
+    '5':
+      pagenum: '031'
+      src: comic_031.png
+    '6':
+      alt: only the purest and truest nic cage fans can shed tears like this
+      pagenum: '032'
+      src: comic_032.png
+    '7':
+      alt: yes. you. you were laughing
+      pagenum: '033'
+      src: comic_033.png
+    '8':
+      alt: '"The Evil Team" is just a cute lil nickname. Don''t overthink this.'
+      pagenum: '034'
+      src: comic_034.png
+    '9':
+      alt: Also, Vriska, you tried to mind-control the judge, so, you know... not
+        cool.
+      pagenum: '035'
+      src: comic_035.png
+  title: CON FAIRE
+'8':
+  authors: Ian McConville and Matt Boyd
+  description: A newspaper tries to stay in business.
+  pages:
+    '1':
+      alt: If whatever news source you use doesn't bill itself as a sleazy rag, you're
+        being lied to
+      pagenum: '036'
+      src: comic_036.png
+      tags: '#derse'
+    '2':
+      alt: I dunno, I think "Hurp bloop bluh" goes unrecognized too often these days.
+        I actually kinda want to know what happened with the cake kerfuffle.
+      pagenum: '037'
+      src: comic_037.png
+      tags: '#derse'
+    '3':
+      alt: I suppose you could call this... *sunglasses* ...breaking news?
+      pagenum: 038
+      src: comic_038.png
+      tags: '#derse'
+    '4':
+      alt: Hooray! A tragedy!
+      pagenum: 039
+      src: comic_039.png
+      tags: '#derse'
+  title: DEADLINE DAY
+'9':
+  authors: Rachel Rocklin and Matt Cummings
+  description: GCat has a fun day.
+  pages:
+    '1':
+      pagenum: '040'
+      src: comic_040.png
+      tags: '#a fun day'
+    '2':
+      alt: oh hey i brought you something
+      pagenum: '041'
+      src: comic_041.png
+      tags: '#dead animal pile #barkley #a fun day'
+  title: A FUN DAY FOR GCAT
