@@ -1633,7 +1633,7 @@
     ],
     "albumCoverArtists": [
       {
-        "who": "homestuck",
+        "who": "mallory-dyer",
         "what": null
       }
     ],
@@ -1768,6 +1768,68 @@
       "https://homestuck.bandcamp.com/album/beyond-canon",
       "https://www.youtube.com/watch?v=CliIjlWjOMY",
       "https://www.youtube.com/playlist?list=PLnVpmehyaOFbH-1hH663k70qBQp5jc_CU"
+    ],
+    "bonus": [],
+    "usesGroups": false
+  },
+  "hiveswap-act-2-ost": {
+    "name": " HIVESWAP: ACT 2 Original Soundtrack",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      },
+      {
+        "who": "toby-fox",
+        "what": null
+      },
+      {
+        "who": "clark-powell",
+        "what": null
+      }
+    ],
+    "albumCoverArtists": [
+      {
+        "who": "mallory-dyer",
+        "what": null
+      }
+    ],
+    "commentary": "<i>James Roach:</i>\n(<a href=\"http://web.archive.org/web/20201126195133/https://twitter.com/hamesatron/status/1332049319357136898\">Twitter (web.archive.org)</a>)\nthe hiveswap OST is up on bandcamp, the main bulk of the tracks are collaborations between toby and i, but the trial music was done by @barkbarkclark! check it out!\n(<a href=\"https://twitter.com/hamesatron/status/1332383817391243265\">Twitter</a>)\ni usually try and clean up my tweets so my shitposts or w/e arent the first thing you see when you go to my profile but i accidentally deleted the wrong ones like a clown : )\n(<a href=\"https://twitter.com/hamesatron/status/1332432741455990784\">Twitter</a>)\nok answerin a few questions:\n<a href=\"/archive/music/extra/hiveswap-act-2-breakdown.png\">here is a breakdown of the OST</a> that i made a while ago\nim not in charge of this so, grain of salt, but i THINK yes they are planning to eventually put it on various streaming services\nwe will probably not be doing a robust OST commentary this time\n<i>Clark Powell:</i>\n(<a href=\"https://twitter.com/barkbarkclark/status/1331688222687051776\">Twitter</a>)\ni wrote some songs for this! if you check it out you might hear why my youtube algorithm recommends me nothing but ace attorney soundtracks now",
+    "directory": "hiveswap-act-2-ost",
+    "tracks": [
+      "on-time-departure",
+      "lunch-break",
+      "above-sea-level",
+      "studio-space",
+      "raw-honey",
+      "homestead",
+      "shell-game",
+      "ticket-to-ride-rusty",
+      "ticket-to-ride-quadrant-confusion",
+      "the-prince-of-all-mustardbloods",
+      "ticket-to-ride-trial-variation",
+      "court-begins",
+      "objection",
+      "cross-examination",
+      "cornered",
+      "ticket-to-ride-the-other-half",
+      "ticket-to-ride-down-with-the-clown",
+      "conductors-cabin",
+      "old-secret-act2",
+      "ghost-train",
+      "fight-of-the-bumblebee",
+      "the-perfect-cast",
+      "dark-carnival-rusty",
+      "dark-carnival-quadrant-confusion",
+      "dark-carnival-trial-variation",
+      "dark-carnival-the-other-half",
+      "drone"
+    ],
+    "hasTrackArt": false,
+    "date": "2020-11-26T01:00:05.000Z",
+    "urls": [
+      "https://homestuck.bandcamp.com/album/hiveswap-act-2-original-soundtrack",
+      "https://www.youtube.com/playlist?list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
     ],
     "bonus": [],
     "usesGroups": false
@@ -1942,13 +2004,15 @@
     "album": [
       "unreleased-tracks"
     ],
-    "commentary": "<i>James Roach:</i>\nthis track presented a unique problem in that i didn't want to write it at the time. I had written a really somber and melancholic track for the area outside the hive (the farm in the concept art) and changing it into something a little goofier and weird presented a unique difficulty for me. I just didn't know what to do for the first time in like actual YEARS i had no idea where to even start. I kept at it for a very long time and eventually just muscled through it with sheer force of will. People often ask me the hardest track or my least favorite to work on. it was this one. silver lining: its also become one of my favorites. i love how it came out. thats the power of determination. did you know you can't say determination anymore.\nthis was written for, yes, the fabled beekeeper troll that nobody will talk about. its become some sort of myth as to what happened to her but the truth isn't that exciting. in early hiveswap days each member of the crew got to \"pick\" a character that they could choose one design element of. The person who picked beekeeper just had a fantroll based off of herself. they also just... drew micro/macro porn of themselves? a power move, honestly. I met them in person and they offered me weed within literal minutes of meeting so i mean i guess they seemed nice. when they no longer worked for the company it was just simpler to redesign the character than deal with literally any of that. mystewy sowved :)\nat the point in production where they were figuring out names/personalities/traits they kinda thrust this one on me because it \"would make the most people angry.\" beekeeper troll was beloved by a very specific kind of horny dude. you know the kind that regularly says \"lewds\" or w/e. nothin wrong with that i guess. chase your bliss. but in an effort by my SO CALLED FRIENDS to antagonize me, they were like \"heh h h e h he e e he h what if we make this cute girl character that hornyboys love into a dumpy little round dude and then say we based him off james who they already do not like.\"\nthanks guys.\nanyway zebede's bullet points and even his name are references to me but thats kinda where it ends. st. james son of zebedee is also known as santiago, which is my birthname. the tongva were \"maybe\" the indigenous people of long beach, where i live, which is \"too far to visit\" which is a joke about The Greater Los Angeles Area. I live 20 minutes away. cowards.",
+    "commentary": "This track was re-released in HIVESWAP: Act 2, as \"Homestead\".\n<i>James Roach:</i>\nthis track presented a unique problem in that i didn't want to write it at the time. I had written a really somber and melancholic track for the area outside the hive (the farm in the concept art) and changing it into something a little goofier and weird presented a unique difficulty for me. I just didn't know what to do for the first time in like actual YEARS i had no idea where to even start. I kept at it for a very long time and eventually just muscled through it with sheer force of will. People often ask me the hardest track or my least favorite to work on. it was this one. silver lining: its also become one of my favorites. i love how it came out. thats the power of determination. did you know you can't say determination anymore.\nthis was written for, yes, the fabled beekeeper troll that nobody will talk about. its become some sort of myth as to what happened to her but the truth isn't that exciting. in early hiveswap days each member of the crew got to \"pick\" a character that they could choose one design element of. The person who picked beekeeper just had a fantroll based off of herself. they also just... drew micro/macro porn of themselves? a power move, honestly. I met them in person and they offered me weed within literal minutes of meeting so i mean i guess they seemed nice. when they no longer worked for the company it was just simpler to redesign the character than deal with literally any of that. mystewy sowved :)\nat the point in production where they were figuring out names/personalities/traits they kinda thrust this one on me because it \"would make the most people angry.\" beekeeper troll was beloved by a very specific kind of horny dude. you know the kind that regularly says \"lewds\" or w/e. nothin wrong with that i guess. chase your bliss. but in an effort by my SO CALLED FRIENDS to antagonize me, they were like \"heh h h e h he e e he h what if we make this cute girl character that hornyboys love into a dumpy little round dude and then say we based him off james who they already do not like.\"\nthanks guys.\nanyway zebede's bullet points and even his name are references to me but thats kinda where it ends. st. james son of zebedee is also known as santiago, which is my birthname. the tongva were \"maybe\" the indigenous people of long beach, where i live, which is \"too far to visit\" which is a joke about The Greater Los Angeles Area. I live 20 minutes away. cowards.",
     "contributors": [],
     "coverArtists": null,
     "duration": 102,
     "lyrics": null,
     "references": [],
-    "referencedBy": [],
+    "referencedBy": [
+      "homestead"
+    ],
     "date": null,
     "directory": "beekeeper-who-i-dont-know-her",
     "bandcampId": null,
@@ -1972,13 +2036,17 @@
     "album": [
       "unreleased-tracks"
     ],
-    "commentary": null,
+    "commentary": "This track was re-released in HIVESWAP: Act 2, as \"Studio Space\".",
     "contributors": [],
     "coverArtists": null,
     "duration": 63,
     "lyrics": null,
-    "references": [],
-    "referencedBy": [],
+    "references": [
+      "the-perfect-cast"
+    ],
+    "referencedBy": [
+      "studio-space"
+    ],
     "date": null,
     "directory": "charuns-cave",
     "bandcampId": null,
@@ -26703,7 +26771,10 @@
       "we-shall-go-together",
       "intermission-1",
       "heavy-snaking",
-      "end-of-friendvangelion"
+      "end-of-friendvangelion",
+      "on-time-departure",
+      "lunch-break",
+      "ghost-train"
     ],
     "date": "2017-09-14T01:00:05.000Z",
     "directory": "joey-claire-extraordinaire",
@@ -27203,7 +27274,8 @@
     ],
     "referencedBy": [
       "oh-whoa-whats-this",
-      "lofted-gunpile"
+      "lofted-gunpile",
+      "on-time-departure"
     ],
     "date": "2017-09-14T01:00:05.000Z",
     "directory": "some-kind-of-alien",
@@ -27241,7 +27313,9 @@
       "filthy-nuclear-bunker",
       "sports-personally-i-love-them",
       "intermission-1",
-      "end-of-friendvangelion"
+      "end-of-friendvangelion",
+      "conductors-cabin",
+      "drone"
     ],
     "date": "2017-09-14T01:00:05.000Z",
     "directory": "rustblood",
@@ -27449,7 +27523,9 @@
     "references": [
       "intermission-1"
     ],
-    "referencedBy": [],
+    "referencedBy": [
+      "on-time-departure"
+    ],
     "date": "2017-09-14T01:00:05.000Z",
     "directory": "wish-you-were-here",
     "bandcampId": 834640598,
@@ -27486,7 +27562,8 @@
       "filthy-nuclear-bunker"
     ],
     "referencedBy": [
-      "wish-you-were-here"
+      "wish-you-were-here",
+      "drone"
     ],
     "date": "2017-09-14T01:00:05.000Z",
     "directory": "intermission-1",
@@ -27962,7 +28039,7 @@
     "album": [
       "hiveswap-friendsim"
     ],
-    "commentary": "<i>James Roach:</i>\n(Boldir's theme)\nhere it is folks.\nthis was going to be in act 3, then i made it the EOA2 cutscene but it still cut off too early to be a full release and i just really liked it so i wanted you guys to hear it now instead of later.\ni used it for boldir because it fit her whole aesthetic, but this song was originally wrote for a scene where joey and xefros are on the run. having been hardened by their journey they hit the streets. it was meant to be a really sort of somber realization.\nI LOVE the mood of the transistor soundtrack and you might notice this drum beat and title are a very obvious nod to the song \"Old Friends\" (though someone else named it, years ago) I was specifically instructed \"make it sound like this song\" but since then I have worked to make it sound like more my own thing. you can see the influence of that soundtrack on all my work, though. the slow driving half-time beat. the airy reverb on chordal tones. the dirty bass. originally meant as a placeholder i never got over how the beat drops the backbeat on every other 4. I could dweeb out about this for hours.",
+    "commentary": "This track was re-released in HIVESWAP: Act 2, as \"Old Secret\".\n<i>James Roach:</i>\n(Boldir's theme)\nhere it is folks.\nthis was going to be in act 3, then i made it the EOA2 cutscene but it still cut off too early to be a full release and i just really liked it so i wanted you guys to hear it now instead of later.\ni used it for boldir because it fit her whole aesthetic, but this song was originally wrote for a scene where joey and xefros are on the run. having been hardened by their journey they hit the streets. it was meant to be a really sort of somber realization.\nI LOVE the mood of the transistor soundtrack and you might notice this drum beat and title are a very obvious nod to the song \"Old Friends\" (though someone else named it, years ago) I was specifically instructed \"make it sound like this song\" but since then I have worked to make it sound like more my own thing. you can see the influence of that soundtrack on all my work, though. the slow driving half-time beat. the airy reverb on chordal tones. the dirty bass. originally meant as a placeholder i never got over how the beat drops the backbeat on every other 4. I could dweeb out about this for hours.",
     "contributors": [],
     "coverArtists": [
       {
@@ -27973,7 +28050,9 @@
     "duration": 266,
     "lyrics": null,
     "references": [],
-    "referencedBy": [],
+    "referencedBy": [
+      "old-secret-act2"
+    ],
     "date": "2018-12-15T00:00:00.000Z",
     "directory": "old-secret",
     "bandcampId": 1928173117,
@@ -28032,7 +28111,7 @@
     "album": [
       "hiveswap-friendsim"
     ],
-    "commentary": "<i>James Roach:</i>\n(Marsti's theme)\nmarsti marsti marsti.... what can i say?\nfirst of all, you're welcome. I didn't design her or draw her or write her but I will gladly take the credit from my esteemed colleagues and friends.\nif you didn't listen to the podcast i was on this morning (pgenpod) or watch that youtube video i uploaded a few weeks ago this track was originally for an area that was scrapped. The important characters got more or less morphed into Marsti as we know her now.\nThere is a whole like section of the game where this melody is used a lot. Its in the old 3D hiveswap trailer, in the Homestuck 2.0 video. Wow. All the cursed ones. It is explicitly not a leitmotif because it is not meant to be \"..indicative of a person or place\" it is just a theme.\nwait but... if i make it marsti's theme does that not mean it, however inadvertently, is now a person's theme and therefore IS a leitmotif? aw jeez guys i really beefed it this time.\nthis ones a bit older but this is, once again, just another example of me goin ham on bass for no good fuckin reason. i just think it sounds cool what do you want from me.",
+    "commentary": "This track was re-released in HIVESWAP: Act 2, as \"Shell Game\".\n<i>James Roach:</i>\n(Marsti's theme)\nmarsti marsti marsti.... what can i say?\nfirst of all, you're welcome. I didn't design her or draw her or write her but I will gladly take the credit from my esteemed colleagues and friends.\nif you didn't listen to the podcast i was on this morning (pgenpod) or watch that youtube video i uploaded a few weeks ago this track was originally for an area that was scrapped. The important characters got more or less morphed into Marsti as we know her now.\nThere is a whole like section of the game where this melody is used a lot. Its in the old 3D hiveswap trailer, in the Homestuck 2.0 video. Wow. All the cursed ones. It is explicitly not a leitmotif because it is not meant to be \"..indicative of a person or place\" it is just a theme.\nwait but... if i make it marsti's theme does that not mean it, however inadvertently, is now a person's theme and therefore IS a leitmotif? aw jeez guys i really beefed it this time.\nthis ones a bit older but this is, once again, just another example of me goin ham on bass for no good fuckin reason. i just think it sounds cool what do you want from me.",
     "contributors": [],
     "coverArtists": [
       {
@@ -28042,8 +28121,12 @@
     ],
     "duration": 253,
     "lyrics": null,
-    "references": [],
-    "referencedBy": [],
+    "references": [
+      "ticket-to-ride-rusty"
+    ],
+    "referencedBy": [
+      "shell-game"
+    ],
     "date": "2018-12-15T00:00:00.000Z",
     "directory": "service-car",
     "bandcampId": 498057461,
@@ -28962,6 +29045,861 @@
       "https://homestuck.bandcamp.com/track/crystal-hung-in-firmaments-descent",
       "https://youtu.be/LsfBIMV1e-Q?list=PLnVpmehyaOFbH-1hH663k70qBQp5jc_CU",
       "https://soundcloud.com/emelia-kaylee/crystal-hung-in-firmaments-descent"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "on-time-departure": {
+    "name": "On-Time Departure",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 184,
+    "lyrics": null,
+    "references": [
+      "wish-you-were-here",
+      "some-kind-of-alien",
+      "joey-claire-extraordinaire"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "on-time-departure",
+    "bandcampId": 310464727,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/on-time-departure",
+      "https://www.youtube.com/watch?v=jxuEFaDyD0s&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "lunch-break": {
+    "name": "Lunch Break",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 65,
+    "lyrics": null,
+    "references": [
+      "joey-claire-extraordinaire"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "lunch-break",
+    "bandcampId": 178751438,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/lunch-break",
+      "https://www.youtube.com/watch?v=XO4geGxyOK4&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "above-sea-level": {
+    "name": "Above Sea Level",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      },
+      {
+        "who": "toby-fox",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 181,
+    "lyrics": null,
+    "references": [],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "above-sea-level",
+    "bandcampId": 3218721360,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/above-sea-level",
+      "https://www.youtube.com/watch?v=S42nK1sihuc&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "studio-space": {
+    "name": "Studio Space",
+    "artists": [
+      {
+        "who": "toby-fox",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 62,
+    "lyrics": null,
+    "references": [
+      "charuns-cave"
+    ],
+    "referencedBy": [
+      "the-perfect-cast"
+    ],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "studio-space",
+    "bandcampId": 3858490616,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/studio-space",
+      "https://www.youtube.com/watch?v=Rwi2BvZ30SY&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "raw-honey": {
+    "name": "Raw Honey",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      },
+      {
+        "who": "toby-fox",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 165,
+    "lyrics": null,
+    "references": [
+      "homestead"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "raw-honey",
+    "bandcampId": 3752305238,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/raw-honey",
+      "https://www.youtube.com/watch?v=xAwi2PS382s&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "homestead": {
+    "name": "Homestead",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 102,
+    "lyrics": null,
+    "references": [
+      "beekeeper-who-i-dont-know-her"
+    ],
+    "referencedBy": [
+      "raw-honey"
+    ],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "homestead",
+    "bandcampId": 2152274634,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/homestead",
+      "https://www.youtube.com/watch?v=xDyuk7rRSVA&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "shell-game": {
+    "name": "Shell Game",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 245,
+    "lyrics": null,
+    "references": [
+      "service-car",
+      "ticket-to-ride-rusty"
+    ],
+    "referencedBy": [
+    ],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "shell-game",
+    "bandcampId": 1648687209,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/shell-game",
+      "https://www.youtube.com/watch?v=2NolhxSH9I8&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "ticket-to-ride-rusty": {
+    "name": "Ticket to Ride: Rusty",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 393,
+    "lyrics": null,
+    "references": [],
+    "referencedBy": [
+      "service-car",
+      "shell-game",
+      "ticket-to-ride-quadrant-confusion",
+      "ticket-to-ride-trial-variation",
+      "ticket-to-ride-the-other-half",
+      "ticket-to-ride-down-with-the-clown",
+      "conductors-cabin",
+      "dark-carnival-rusty"
+    ],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "ticket-to-ride-rusty",
+    "bandcampId": 3535914927,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/ticket-to-ride-rusty",
+      "https://www.youtube.com/watch?v=Ub2gvuaJ3JA&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "ticket-to-ride-quadrant-confusion": {
+    "name": "Ticket to Ride: Quadrant Confusion",
+    "artists": [
+      {
+        "who": "toby-fox",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 105,
+    "lyrics": null,
+    "references": [
+      "ticket-to-ride-rusty"
+    ],
+    "referencedBy": [
+      "dark-carnival-quadrant-confusion"
+    ],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "ticket-to-ride-quadrant-confusion",
+    "bandcampId": 1041543219,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/ticket-to-ride-quadrant-confusion",
+      "https://www.youtube.com/watch?v=12X31slGqKw&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "the-prince-of-all-mustardbloods": {
+    "name": "The Prince of All Mustardbloods",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 191,
+    "lyrics": null,
+    "references": [],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "the-prince-of-all-mustardbloods",
+    "bandcampId": 1321510561,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/the-prince-of-all-mustardbloods",
+      "https://www.youtube.com/watch?v=bsX9Zx0hrG0&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "ticket-to-ride-trial-variation": {
+    "name": "Ticket to Ride: Trial Variation",
+    "artists": [
+      {
+        "who": "toby-fox",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 110,
+    "lyrics": null,
+    "references": [
+      "ticket-to-ride-rusty"
+    ],
+    "referencedBy": [
+      "dark-carnival-trial-variation"
+    ],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "ticket-to-ride-trial-variation",
+    "bandcampId": 1227336572,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/ticket-to-ride-trial-variation",
+      "https://www.youtube.com/watch?v=_4GmT28X5bc&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "court-begins": {
+    "name": "Court Begins",
+    "artists": [
+      {
+        "who": "clark-powell",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 242,
+    "lyrics": null,
+    "references": [
+      "cross-examination"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "court-begins",
+    "bandcampId": 2639878361,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/court-begins",
+      "https://www.youtube.com/watch?v=UH5dFHEJ628&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "objection": {
+    "name": "Objection",
+    "artists": [
+      {
+        "who": "clark-powell",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 208,
+    "lyrics": null,
+    "references": [],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "objection",
+    "bandcampId": null,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/objection",
+      "https://www.youtube.com/watch?v=a2NMBLlE7aw&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "cross-examination": {
+    "name": "Cross Examination",
+    "artists": [
+      {
+        "who": "clark-powell",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 213,
+    "lyrics": null,
+    "references": [],
+    "referencedBy": [
+      "court-begins",
+      "cornered",
+      "ticket-to-ride-down-with-the-clown"
+    ],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "cross-examination",
+    "bandcampId": 712936325,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/cross-examination",
+      "https://www.youtube.com/watch?v=FM2U5rskC1o&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "cornered": {
+    "name": "Cornered",
+    "artists": [
+      {
+        "who": "clark-powell",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 206,
+    "lyrics": null,
+    "references": [
+      "cross-examination"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "cornered",
+    "bandcampId": 3705285859,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/cornered",
+      "https://www.youtube.com/watch?v=ooIEh1O4d64&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "ticket-to-ride-the-other-half": {
+    "name": "Ticket to Ride: The Other Half",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      },
+      {
+        "who": "toby-fox",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 275,
+    "lyrics": null,
+    "references": [
+      "ticket-to-ride-rusty"
+    ],
+    "referencedBy": [
+      "dark-carnival-the-other-half"
+    ],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "ticket-to-ride-the-other-half",
+    "bandcampId": 3646248116,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/ticket-to-ride-the-other-half",
+      "https://www.youtube.com/watch?v=64GAMIdWxmY&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "ticket-to-ride-down-with-the-clown": {
+    "name": "Ticket to Ride: Down with the Clown",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 170,
+    "lyrics": null,
+    "references": [
+      "ticket-to-ride-rusty",
+      "cross-examination"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "ticket-to-ride-down-with-the-clown",
+    "bandcampId": 1292558643,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/ticket-to-ride-down-with-the-clown",
+      "https://www.youtube.com/watch?v=cYebmejzENc&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "conductors-cabin": {
+    "name": "Conductor's Cabin",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      },
+      {
+        "who": "toby-fox",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 217,
+    "lyrics": null,
+    "references": [
+      "ticket-to-ride-rusty",
+      "rustblood"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "conductors-cabin",
+    "bandcampId": 799497210,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/conductor-s-cabin",
+      "https://www.youtube.com/watch?v=t24E34ShFe0&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "old-secret-act2": {
+    "name": "Old Secret",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 266,
+    "lyrics": null,
+    "references": [
+      "old-secret"
+    ],
+    "referencedBy": [
+      "ghost-train"
+    ],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "old-secret-act2",
+    "bandcampId": 2220924331,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/old-secret-2",
+      "https://www.youtube.com/watch?v=5BenvLz9Ru4&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "ghost-train": {
+    "name": "Ghost Train",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 184,
+    "lyrics": null,
+    "references": [
+      "joey-claire-extraordinaire",
+      "old-secret-act2"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "ghost-train",
+    "bandcampId": 3121690982,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/ghost-train",
+      "https://www.youtube.com/watch?v=AJh5dQB0wvM&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "fight-of-the-bumblebee": {
+    "name": "Fight of the Bumblebee",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      },
+      {
+        "who": "toby-fox",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 107,
+    "lyrics": null,
+    "references": [],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "fight-of-the-bumblebee",
+    "bandcampId": 44073246,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/fight-of-the-bumblebee",
+      "https://www.youtube.com/watch?v=O4TPPgKDa_8&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "the-perfect-cast": {
+    "name": "The Perfect Cast",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      },
+      {
+        "who": "toby-fox",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 93,
+    "lyrics": null,
+    "references": [
+      "studio-space"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "the-perfect-cast",
+    "bandcampId": 1286446408,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/the-perfect-cast",
+      "https://www.youtube.com/watch?v=GMxAjZB1A_g&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "dark-carnival-rusty": {
+    "name": "Dark Carnival: Rusty",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 240,
+    "lyrics": null,
+    "references": [
+      "ticket-to-ride-rusty"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "dark-carnival-rusty",
+    "bandcampId": 1876497075,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/dark-carnival-rusty",
+      "https://www.youtube.com/watch?v=xoSPIJC-zt4&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "dark-carnival-quadrant-confusion": {
+    "name": "Dark Carnival: Quadrant Confusion",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 246,
+    "lyrics": null,
+    "references": [
+      "ticket-to-ride-quadrant-confusion"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "dark-carnival-quadrant-confusion",
+    "bandcampId": 583532246,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/dark-carnival-quadrant-confusion",
+      "https://www.youtube.com/watch?v=Be1iIwXP4EY4&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "dark-carnival-trial-variation": {
+    "name": "Dark Carnival: Trial Variation",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 147,
+    "lyrics": null,
+    "references": [
+      "ticket-to-ride-trial-variation"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "dark-carnival-trial-variation",
+    "bandcampId": 1308057499,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/dark-carnival-trial-variation",
+      "https://www.youtube.com/watch?v=qxRN8p6_lWc4&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "dark-carnival-the-other-half": {
+    "name": "Dark Carnival: The Other Half",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 120,
+    "lyrics": null,
+    "references": [
+      "ticket-to-ride-the-other-half"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "dark-carnival-the-other-half",
+    "bandcampId": 1641735177,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/dark-carnival-the-other-half",
+      "https://www.youtube.com/watch?v=HL-l-a6_vG0&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
+    ],
+    "group": "",
+    "pages": []
+  },
+  "drone": {
+    "name": "DRONE",
+    "artists": [
+      {
+        "who": "james-roach",
+        "what": null
+      }
+    ],
+    "album": [
+      "hiveswap-act-2-ost"
+    ],  
+    "commentary": null,
+    "contributors": [],
+    "coverArtists": null,
+    "duration": 80,
+    "lyrics": null,
+    "references": [
+      "intermission-1",
+      "rustblood"
+    ],
+    "referencedBy": [],
+    "date": "2020-11-26T01:00:05.000Z",
+    "directory": "drone",
+    "bandcampId": 1881790888,
+    "urls": [
+      "https://homestuck.bandcamp.com/track/drone",
+      "https://www.youtube.com/watch?v=AGgey4ok3pc&list=PLo6jbRGXGrtjd24KGItEpyaXqEjAjuDFn"
     ],
     "group": "",
     "pages": []
@@ -30819,6 +31757,28 @@
           }
         ],
         "art": []
+      },
+      {
+        "directory": "hiveswap-act-2-ost",
+        "coverArt": null,
+        "music": [
+          {
+            "track": "court-begins",
+            "what": null
+          },
+          {
+            "track": "objection",
+            "what": null
+          },
+          {
+            "track": "cross-examination",
+            "what": null
+          },
+          {
+            "track": "cornered",
+            "what": null
+          }
+        ]
       },
       {
         "directory": "unreleased-tracks",
@@ -34315,6 +35275,92 @@
         "art": []
       },
       {
+        "directory": "hiveswap-act-2-ost",
+        "coverArt": null,
+        "music": [
+          {
+            "track": "on-time-departure",
+            "what": null
+          },
+          {
+            "track": "lunch-break",
+            "what": null
+          },
+          {
+            "track": "above-sea-level",
+            "what": null
+          },
+          {
+            "track": "raw-honey",
+            "what": null
+          },
+          {
+            "track": "homestead",
+            "what": null
+          },
+          {
+            "track": "shell-game",
+            "what": null
+          },
+          {
+            "track": "ticket-to-ride-rusty",
+            "what": null
+          },
+          {
+            "track": "the-prince-of-all-mustardbloods",
+            "what": null
+          },
+          {
+            "track": "ticket-to-ride-the-other-half",
+            "what": null
+          },
+          {
+            "track": "ticket-to-ride-down-with-the-clown",
+            "what": null
+          },
+          {
+            "track": "conductors-cabin",
+            "what": null
+          },
+          {
+            "track": "old-secret-act2",
+            "what": null
+          },
+          {
+            "track": "ghost-train",
+            "what": null
+          },
+          {
+            "track": "fight-of-the-bumblebee",
+            "what": null
+          },
+          {
+            "track": "the-perfect-cast",
+            "what": null
+          },
+          {
+            "track": "dark-carnival-rusty",
+            "what": null
+          },
+          {
+            "track": "dark-carnival-quadrant-confusion",
+            "what": null
+          },
+          {
+            "track": "dark-carnival-trial-variation",
+            "what": null
+          },
+          {
+            "track": "dark-carnival-the-other-half",
+            "what": null
+          },
+          {
+            "track": "drone",
+            "what": null
+          }
+        ]
+      },
+      {
         "directory": "unreleased-tracks",
         "coverArt": null,
         "music": [
@@ -35928,6 +36974,29 @@
             "what": "alto & tenor saxophone"
           }
         ],
+        "art": []
+      }
+    ]
+  },
+  "mallory-dyer" : {
+    "directory": "mallory-dyer",
+    "name": "Mallory Dyer",
+    "urls": [
+      "https://twitter.com/bleaksqueak",
+      "https://www.deviantart.com/pupukachoo",
+      "https://solivaga.net/"
+    ],
+    "credits": [
+      {
+        "directory": "hiveswap-act-1-ost",
+        "coverArt": true,
+        "music": [],
+        "art": []
+      },
+      {
+        "directory": "hiveswap-act-2-ost",
+        "coverArt": true,
+        "music": [],
         "art": []
       }
     ]
@@ -41406,6 +42475,48 @@
           }
         ],
         "art": []
+      },
+      {
+        "directory": "hiveswap-act-2-ost",
+        "coverArt": null,
+        "music": [
+          {
+            "track": "above-sea-level",
+            "what": null
+          },
+          {
+            "track": "studio-space",
+            "what": null
+          },
+          {
+            "track": "raw-honey",
+            "what": null
+          },
+          {
+            "track": "ticket-to-ride-quadrant-confusion",
+            "what": null
+          },
+          {
+            "track": "ticket-to-ride-trial-variation",
+            "what": null
+          },
+          {
+            "track": "ticket-to-ride-the-other-half",
+            "what": null
+          },
+          {
+            "track": "conductors-cabin",
+            "what": null
+          },
+          {
+            "track": "fight-of-the-bumblebee",
+            "what": null
+          },
+          {
+            "track": "the-perfect-cast",
+            "what": null
+          }
+        ]
       },
       {
         "directory": "unreleased-tracks",
